@@ -1,21 +1,77 @@
 {
-  "generatedAt": "2026-08-30T08:20:41Z",
+  "generatedAt": "2026-08-30T09:05:38Z",
   "topN": 10,
   "category": "sentiment",
   "items": [
     {
       "rank": 1,
+      "symbol": "8035",
+      "name": "東京エレクトロン",
+      "score": 84,
+      "summary": "市場が高く評価している。"
+    },
+    {
+      "rank": 2,
+      "symbol": "7974",
+      "name": "任天堂",
+      "score": 82,
+      "summary": "市場から高い関心を集める。"
+    },
+    {
+      "rank": 3,
+      "symbol": "6861",
+      "name": "キーエンス",
+      "score": 79,
+      "summary": "市場が強く支持している。"
+    },
+    {
+      "rank": 4,
+      "symbol": "6758",
+      "name": "ソニーグループ",
+      "score": 77,
+      "summary": "材料が好感されている。"
+    },
+    {
+      "rank": 5,
+      "symbol": "6954",
+      "name": "ファナック",
+      "score": 76,
+      "summary": "業界の注目度が高い。"
+    },
+    {
+      "rank": 6,
       "symbol": "9984",
       "name": "ソフトバンクグループ",
       "score": 75,
       "summary": "市場が注目している。"
     },
     {
-      "rank": 2,
-      "symbol": "7203",
-      "name": "トヨタ自動車",
-      "score": 68,
-      "summary": "材料はプラス。"
+      "rank": 7,
+      "symbol": "9432",
+      "name": "NTTドコモ",
+      "score": 73,
+      "summary": "材料は安定している。"
+    },
+    {
+      "rank": 8,
+      "symbol": "6501",
+      "name": "日立製作所",
+      "score": 72,
+      "summary": "そのまま推すには材料不足。"
+    },
+    {
+      "rank": 9,
+      "symbol": "8306",
+      "name": "三菱UFJフィナンシャル・グループ",
+      "score": 71,
+      "summary": "業績期待は安定。"
+    },
+    {
+      "rank": 10,
+      "symbol": "4519",
+      "name": "中外製薬",
+      "score": 70,
+      "summary": "材料は概ね支え。"
     }
   ]
 }

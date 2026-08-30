@@ -1,21 +1,77 @@
 {
-  "generatedAt": "2026-08-30T08:20:41Z",
+  "generatedAt": "2026-08-30T09:05:38Z",
   "topN": 10,
   "category": "quality",
   "items": [
     {
       "rank": 1,
+      "symbol": "8035",
+      "name": "東京エレクトロン",
+      "score": 92,
+      "summary": "世界的に高い競争力。"
+    },
+    {
+      "rank": 2,
+      "symbol": "6861",
+      "name": "キーエンス",
+      "score": 90,
+      "summary": "高利益率と配当安定。"
+    },
+    {
+      "rank": 3,
+      "symbol": "6954",
+      "name": "ファナック",
+      "score": 89,
+      "summary": "技術力と利益率が高い。"
+    },
+    {
+      "rank": 4,
+      "symbol": "8306",
+      "name": "三菱UFJフィナンシャル・グループ",
+      "score": 88,
+      "summary": "財務は健全。"
+    },
+    {
+      "rank": 5,
+      "symbol": "6501",
+      "name": "日立製作所",
+      "score": 87,
+      "summary": "事業の多角化が進む。"
+    },
+    {
+      "rank": 6,
       "symbol": "7203",
       "name": "トヨタ自動車",
       "score": 86,
       "summary": "ROEが高く安定。"
     },
     {
-      "rank": 2,
-      "symbol": "9984",
-      "name": "ソフトバンクグループ",
-      "score": 81,
-      "summary": "財務は安定。"
+      "rank": 7,
+      "symbol": "4519",
+      "name": "中外製薬",
+      "score": 86,
+      "summary": "医薬品開発が強い。"
+    },
+    {
+      "rank": 8,
+      "symbol": "4502",
+      "name": "武田薬品工業",
+      "score": 85,
+      "summary": "安定した利益を確保。"
+    },
+    {
+      "rank": 9,
+      "symbol": "6758",
+      "name": "ソニーグループ",
+      "score": 84,
+      "summary": "経営効率が高い。"
+    },
+    {
+      "rank": 10,
+      "symbol": "7974",
+      "name": "任天堂",
+      "score": 83,
+      "summary": "ブランドと利益率が強い。"
     }
   ]
 }

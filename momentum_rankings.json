@@ -1,17 +1,73 @@
 {
-  "generatedAt": "2026-08-30T08:20:41Z",
+  "generatedAt": "2026-08-30T09:05:38Z",
   "topN": 10,
   "category": "momentum",
   "items": [
     {
       "rank": 1,
+      "symbol": "7974",
+      "name": "任天堂",
+      "score": 88,
+      "summary": "販売動向が良好。"
+    },
+    {
+      "rank": 2,
+      "symbol": "8035",
+      "name": "東京エレクトロン",
+      "score": 87,
+      "summary": "受注が好調。"
+    },
+    {
+      "rank": 3,
+      "symbol": "6954",
+      "name": "ファナック",
+      "score": 85,
+      "summary": "受注が拡大している。"
+    },
+    {
+      "rank": 4,
+      "symbol": "6861",
+      "name": "キーエンス",
+      "score": 83,
+      "summary": "投資家の注目が高い。"
+    },
+    {
+      "rank": 5,
+      "symbol": "6758",
+      "name": "ソニーグループ",
+      "score": 81,
+      "summary": "短期相場が強い。"
+    },
+    {
+      "rank": 6,
       "symbol": "9984",
       "name": "ソフトバンクグループ",
       "score": 80,
       "summary": "短期上昇が続く。"
     },
     {
-      "rank": 2,
+      "rank": 7,
+      "symbol": "9432",
+      "name": "NTTドコモ",
+      "score": 80,
+      "summary": "株価の底堅さが続く。"
+    },
+    {
+      "rank": 8,
+      "symbol": "6501",
+      "name": "日立製作所",
+      "score": 76,
+      "summary": "テーマ回帰が進んでいる。"
+    },
+    {
+      "rank": 9,
+      "symbol": "4519",
+      "name": "中外製薬",
+      "score": 73,
+      "summary": "医薬品テーマが戻ってきている。"
+    },
+    {
+      "rank": 10,
       "symbol": "7203",
       "name": "トヨタ自動車",
       "score": 72,

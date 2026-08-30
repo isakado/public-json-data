@@ -1,21 +1,77 @@
 {
-  "generatedAt": "2026-08-30T08:20:41Z",
+  "generatedAt": "2026-08-30T09:05:38Z",
   "topN": 10,
   "category": "valuation",
   "items": [
     {
       "rank": 1,
+      "symbol": "8035",
+      "name": "東京エレクトロン",
+      "score": 90,
+      "summary": "成長性を反映していない。"
+    },
+    {
+      "rank": 2,
+      "symbol": "6861",
+      "name": "キーエンス",
+      "score": 88,
+      "summary": "成長性に比べて割安。"
+    },
+    {
+      "rank": 3,
+      "symbol": "7974",
+      "name": "任天堂",
+      "score": 86,
+      "summary": "成長力に対し割安に見える。"
+    },
+    {
+      "rank": 4,
+      "symbol": "6758",
+      "name": "ソニーグループ",
+      "score": 85,
+      "summary": "成長に対して割安。"
+    },
+    {
+      "rank": 5,
+      "symbol": "6954",
+      "name": "ファナック",
+      "score": 84,
+      "summary": "業績に比べて評価が低い。"
+    },
+    {
+      "rank": 6,
       "symbol": "7203",
       "name": "トヨタ自動車",
       "score": 78,
       "summary": "PBRがやや低い。"
     },
     {
-      "rank": 2,
+      "rank": 7,
+      "symbol": "9432",
+      "name": "NTTドコモ",
+      "score": 75,
+      "summary": "成長と割安感のバランス。"
+    },
+    {
+      "rank": 8,
       "symbol": "9984",
       "name": "ソフトバンクグループ",
       "score": 73,
       "summary": "株価はやや高い。"
+    },
+    {
+      "rank": 9,
+      "symbol": "6501",
+      "name": "日立製作所",
+      "score": 73,
+      "summary": "業績改善が反映されている。"
+    },
+    {
+      "rank": 10,
+      "symbol": "4519",
+      "name": "中外製薬",
+      "score": 72,
+      "summary": "高い成長性が相場に織り込まれている。"
     }
   ]
 }
