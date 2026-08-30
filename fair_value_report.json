@@ -1,0 +1,215 @@
+{
+  "generatedAt": "2026-08-30T08:13:45Z",
+  "stocks": [
+    {
+      "symbol": "7203",
+      "name": "トヨタ自動車",
+      "category": "overall",
+      "currentPrice": 3116.0,
+      "fairValue": 3116.0,
+      "fairValueRange": {
+        "min": 2804.4,
+        "max": 3427.6000000000004
+      },
+      "valuationStatus": "判定不能",
+      "upsidePercent": 0.0,
+      "downsidePercent": 0.0,
+      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "drivers": [
+        "データ不足"
+      ],
+      "risks": [
+        "評価が不確実"
+      ]
+    },
+    {
+      "symbol": "9984",
+      "name": "ソフトバンクグループ",
+      "category": "overall",
+      "currentPrice": 5161.0,
+      "fairValue": 5161.0,
+      "fairValueRange": {
+        "min": 4644.900000000001,
+        "max": 5677.1
+      },
+      "valuationStatus": "判定不能",
+      "upsidePercent": 0.0,
+      "downsidePercent": 0.0,
+      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "drivers": [
+        "データ不足"
+      ],
+      "risks": [
+        "評価が不確実"
+      ]
+    },
+    {
+      "symbol": "7203",
+      "name": "トヨタ自動車",
+      "category": "valuation",
+      "currentPrice": 3116.0,
+      "fairValue": 3116.0,
+      "fairValueRange": {
+        "min": 2804.4,
+        "max": 3427.6000000000004
+      },
+      "valuationStatus": "判定不能",
+      "upsidePercent": 0.0,
+      "downsidePercent": 0.0,
+      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "drivers": [
+        "データ不足"
+      ],
+      "risks": [
+        "評価が不確実"
+      ]
+    },
+    {
+      "symbol": "9984",
+      "name": "ソフトバンクグループ",
+      "category": "valuation",
+      "currentPrice": 5161.0,
+      "fairValue": 5161.0,
+      "fairValueRange": {
+        "min": 4644.900000000001,
+        "max": 5677.1
+      },
+      "valuationStatus": "判定不能",
+      "upsidePercent": 0.0,
+      "downsidePercent": 0.0,
+      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "drivers": [
+        "データ不足"
+      ],
+      "risks": [
+        "評価が不確実"
+      ]
+    },
+    {
+      "symbol": "7203",
+      "name": "トヨタ自動車",
+      "category": "quality",
+      "currentPrice": 3116.0,
+      "fairValue": 3116.0,
+      "fairValueRange": {
+        "min": 2804.4,
+        "max": 3427.6000000000004
+      },
+      "valuationStatus": "判定不能",
+      "upsidePercent": 0.0,
+      "downsidePercent": 0.0,
+      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "drivers": [
+        "データ不足"
+      ],
+      "risks": [
+        "評価が不確実"
+      ]
+    },
+    {
+      "symbol": "9984",
+      "name": "ソフトバンクグループ",
+      "category": "quality",
+      "currentPrice": 5161.0,
+      "fairValue": 5161.0,
+      "fairValueRange": {
+        "min": 4644.900000000001,
+        "max": 5677.1
+      },
+      "valuationStatus": "判定不能",
+      "upsidePercent": 0.0,
+      "downsidePercent": 0.0,
+      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "drivers": [
+        "データ不足"
+      ],
+      "risks": [
+        "評価が不確実"
+      ]
+    },
+    {
+      "symbol": "9984",
+      "name": "ソフトバンクグループ",
+      "category": "momentum",
+      "currentPrice": 5161.0,
+      "fairValue": 5161.0,
+      "fairValueRange": {
+        "min": 4644.900000000001,
+        "max": 5677.1
+      },
+      "valuationStatus": "判定不能",
+      "upsidePercent": 0.0,
+      "downsidePercent": 0.0,
+      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "drivers": [
+        "データ不足"
+      ],
+      "risks": [
+        "評価が不確実"
+      ]
+    },
+    {
+      "symbol": "7203",
+      "name": "トヨタ自動車",
+      "category": "momentum",
+      "currentPrice": 3116.0,
+      "fairValue": 3116.0,
+      "fairValueRange": {
+        "min": 2804.4,
+        "max": 3427.6000000000004
+      },
+      "valuationStatus": "判定不能",
+      "upsidePercent": 0.0,
+      "downsidePercent": 0.0,
+      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "drivers": [
+        "データ不足"
+      ],
+      "risks": [
+        "評価が不確実"
+      ]
+    },
+    {
+      "symbol": "9984",
+      "name": "ソフトバンクグループ",
+      "category": "sentiment",
+      "currentPrice": 5161.0,
+      "fairValue": 5161.0,
+      "fairValueRange": {
+        "min": 4644.900000000001,
+        "max": 5677.1
+      },
+      "valuationStatus": "判定不能",
+      "upsidePercent": 0.0,
+      "downsidePercent": 0.0,
+      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "drivers": [
+        "データ不足"
+      ],
+      "risks": [
+        "評価が不確実"
+      ]
+    },
+    {
+      "symbol": "7203",
+      "name": "トヨタ自動車",
+      "category": "sentiment",
+      "currentPrice": 3116.0,
+      "fairValue": 3116.0,
+      "fairValueRange": {
+        "min": 2804.4,
+        "max": 3427.6000000000004
+      },
+      "valuationStatus": "判定不能",
+      "upsidePercent": 0.0,
+      "downsidePercent": 0.0,
+      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "drivers": [
+        "データ不足"
+      ],
+      "risks": [
+        "評価が不確実"
+      ]
+    }
+  ]
+}

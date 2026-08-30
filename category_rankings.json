@@ -1,0 +1,86 @@
+{
+  "generatedAt": "2026-08-30T08:13:43Z",
+  "topN": 10,
+  "categories": {
+    "overall": [
+      {
+        "rank": 1,
+        "symbol": "7203",
+        "name": "トヨタ自動車",
+        "score": 79,
+        "summary": "割安感と財務の健全さがある。"
+      },
+      {
+        "rank": 2,
+        "symbol": "9984",
+        "name": "ソフトバンクグループ",
+        "score": 76,
+        "summary": "テーマが強い。"
+      }
+    ],
+    "valuation": [
+      {
+        "rank": 1,
+        "symbol": "7203",
+        "name": "トヨタ自動車",
+        "score": 78,
+        "summary": "PBRがやや低い。"
+      },
+      {
+        "rank": 2,
+        "symbol": "9984",
+        "name": "ソフトバンクグループ",
+        "score": 73,
+        "summary": "株価はやや高い。"
+      }
+    ],
+    "quality": [
+      {
+        "rank": 1,
+        "symbol": "7203",
+        "name": "トヨタ自動車",
+        "score": 86,
+        "summary": "ROEが高く安定。"
+      },
+      {
+        "rank": 2,
+        "symbol": "9984",
+        "name": "ソフトバンクグループ",
+        "score": 81,
+        "summary": "財務は安定。"
+      }
+    ],
+    "momentum": [
+      {
+        "rank": 1,
+        "symbol": "9984",
+        "name": "ソフトバンクグループ",
+        "score": 80,
+        "summary": "短期上昇が続く。"
+      },
+      {
+        "rank": 2,
+        "symbol": "7203",
+        "name": "トヨタ自動車",
+        "score": 72,
+        "summary": "短期相場が堅調。"
+      }
+    ],
+    "sentiment": [
+      {
+        "rank": 1,
+        "symbol": "9984",
+        "name": "ソフトバンクグループ",
+        "score": 75,
+        "summary": "市場が注目している。"
+      },
+      {
+        "rank": 2,
+        "symbol": "7203",
+        "name": "トヨタ自動車",
+        "score": 68,
+        "summary": "材料はプラス。"
+      }
+    ]
+  }
+}
