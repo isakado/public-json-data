@@ -1,0 +1,21 @@
+{
+  "generatedAt": "2026-08-30T08:20:41Z",
+  "topN": 10,
+  "category": "overall",
+  "items": [
+    {
+      "rank": 1,
+      "symbol": "7203",
+      "name": "トヨタ自動車",
+      "score": 79,
+      "summary": "割安感と財務の健全さがある。"
+    },
+    {
+      "rank": 2,
+      "symbol": "9984",
+      "name": "ソフトバンクグループ",
+      "score": 76,
+      "summary": "テーマが強い。"
+    }
+  ]
+}

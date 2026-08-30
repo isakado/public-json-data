@@ -1,0 +1,21 @@
+{
+  "generatedAt": "2026-08-30T08:20:41Z",
+  "topN": 10,
+  "category": "quality",
+  "items": [
+    {
+      "rank": 1,
+      "symbol": "7203",
+      "name": "トヨタ自動車",
+      "score": 86,
+      "summary": "ROEが高く安定。"
+    },
+    {
+      "rank": 2,
+      "symbol": "9984",
+      "name": "ソフトバンクグループ",
+      "score": 81,
+      "summary": "財務は安定。"
+    }
+  ]
+}
