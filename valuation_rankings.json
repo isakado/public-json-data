@@ -1,77 +1,107 @@
 {
-  "generatedAt": "2026-08-30T09:05:38Z",
+  "generatedAt": "2026-08-30T11:05:40Z",
   "topN": 10,
   "category": "valuation",
   "items": [
     {
       "rank": 1,
-      "symbol": "8035",
-      "name": "東京エレクトロン",
-      "score": 90,
-      "summary": "成長性を反映していない。"
+      "symbol": "7203",
+      "name": "トヨタ自動車",
+      "score": 20,
+      "summary": "yfinance市場データで算出した適正株価と現在値の乖離率 +20.1%",
+      "gapPercent": 20.07,
+      "fairValue": 3741.52,
+      "currentPrice": 3116.0
     },
     {
       "rank": 2,
-      "symbol": "6861",
-      "name": "キーエンス",
-      "score": 88,
-      "summary": "成長性に比べて割安。"
+      "symbol": "7974",
+      "name": "任天堂",
+      "score": 5,
+      "summary": "yfinance市場データで算出した適正株価と現在値の乖離率 +5.0%",
+      "gapPercent": 5.0,
+      "fairValue": 9442.65,
+      "currentPrice": 8993.0
     },
     {
       "rank": 3,
-      "symbol": "7974",
-      "name": "任天堂",
-      "score": 86,
-      "summary": "成長力に対し割安に見える。"
+      "symbol": "6861",
+      "name": "キーエンス",
+      "score": 5,
+      "summary": "yfinance市場データで算出した適正株価と現在値の乖離率 +5.0%",
+      "gapPercent": 5.0,
+      "fairValue": 87108.0,
+      "currentPrice": 82960.0
     },
     {
       "rank": 4,
-      "symbol": "6758",
-      "name": "ソニーグループ",
-      "score": 85,
-      "summary": "成長に対して割安。"
+      "symbol": "6501",
+      "name": "日立製作所",
+      "score": 5,
+      "summary": "yfinance市場データで算出した適正株価と現在値の乖離率 +5.0%",
+      "gapPercent": 5.0,
+      "fairValue": 5827.5,
+      "currentPrice": 5550.0
     },
     {
       "rank": 5,
-      "symbol": "6954",
-      "name": "ファナック",
-      "score": 84,
-      "summary": "業績に比べて評価が低い。"
+      "symbol": "9984",
+      "name": "ソフトバンクグループ",
+      "score": 0,
+      "summary": "yfinance市場データで算出した適正株価と現在値の乖離率 +0.2%",
+      "gapPercent": 0.16,
+      "fairValue": 5169.25,
+      "currentPrice": 5161.0
     },
     {
       "rank": 6,
-      "symbol": "7203",
-      "name": "トヨタ自動車",
-      "score": 78,
-      "summary": "PBRがやや低い。"
+      "symbol": "8035",
+      "name": "東京エレクトロン",
+      "score": 0,
+      "summary": "yfinance市場データで算出した適正株価と現在値の乖離率 +0.2%",
+      "gapPercent": 0.15,
+      "fairValue": 56316.96,
+      "currentPrice": 56230.0
     },
     {
       "rank": 7,
-      "symbol": "9432",
-      "name": "NTTドコモ",
-      "score": 75,
-      "summary": "成長と割安感のバランス。"
+      "symbol": "4519",
+      "name": "中外製薬",
+      "score": 0,
+      "summary": "yfinance市場データで算出した適正株価と現在値の乖離率 +0.1%",
+      "gapPercent": 0.12,
+      "fairValue": 7041.26,
+      "currentPrice": 7033.0
     },
     {
       "rank": 8,
-      "symbol": "9984",
-      "name": "ソフトバンクグループ",
-      "score": 73,
-      "summary": "株価はやや高い。"
+      "symbol": "6758",
+      "name": "ソニーグループ",
+      "score": 0,
+      "summary": "yfinance市場データで算出した適正株価と現在値の乖離率 +0.1%",
+      "gapPercent": 0.07,
+      "fairValue": 3930.58,
+      "currentPrice": 3928.0
     },
     {
       "rank": 9,
-      "symbol": "6501",
-      "name": "日立製作所",
-      "score": 73,
-      "summary": "業績改善が反映されている。"
+      "symbol": "6954",
+      "name": "ファナック",
+      "score": 0,
+      "summary": "yfinance市場データで算出した適正株価と現在値の乖離率 +0.1%",
+      "gapPercent": 0.05,
+      "fairValue": 6055.04,
+      "currentPrice": 6052.0
     },
     {
       "rank": 10,
-      "symbol": "4519",
-      "name": "中外製薬",
-      "score": 72,
-      "summary": "高い成長性が相場に織り込まれている。"
+      "symbol": "9432",
+      "name": "NTTドコモ",
+      "score": 0,
+      "summary": "yfinance市場データで算出した適正株価と現在値の乖離率 +0.1%",
+      "gapPercent": 0.05,
+      "fairValue": 168.69,
+      "currentPrice": 168.6
     }
   ]
 }
