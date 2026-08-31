@@ -1,107 +1,108 @@
 {
-  "generatedAt": "2026-08-30T11:33:04Z",
+  "generatedAt": "2026-08-31T12:59:40Z",
   "topN": 10,
   "category": "valuation",
+  "sourceFile": "valuation_rankings.json",
   "items": [
     {
       "rank": 1,
-      "symbol": "8035",
-      "name": "東京エレクトロン",
-      "score": 0,
-      "summary": "適正株価と現在値の乖離率 +0.0%",
-      "gapPercent": 0.0,
-      "fairValue": 56230.0,
-      "currentPrice": 56230.0
+      "symbol": "7974",
+      "name": "任天堂",
+      "score": 5,
+      "summary": "適正株価と現在値の乖離率 +5.0%",
+      "gapPercent": 5.0,
+      "fairValue": 9496.2,
+      "currentPrice": 9044.0
     },
     {
       "rank": 2,
-      "symbol": "7974",
-      "name": "任天堂",
-      "score": 0,
-      "summary": "適正株価と現在値の乖離率 +0.0%",
-      "gapPercent": 0.0,
-      "fairValue": 8993.0,
-      "currentPrice": 8993.0
+      "symbol": "6861",
+      "name": "キーエンス",
+      "score": 5,
+      "summary": "適正株価と現在値の乖離率 +5.0%",
+      "gapPercent": 5.0,
+      "fairValue": 87843.0,
+      "currentPrice": 83660.0
     },
     {
       "rank": 3,
-      "symbol": "6861",
-      "name": "キーエンス",
-      "score": 0,
-      "summary": "適正株価と現在値の乖離率 +0.0%",
-      "gapPercent": 0.0,
-      "fairValue": 82960.0,
-      "currentPrice": 82960.0
+      "symbol": "6501",
+      "name": "日立製作所",
+      "score": 5,
+      "summary": "適正株価と現在値の乖離率 +5.0%",
+      "gapPercent": 5.0,
+      "fairValue": 5709.9,
+      "currentPrice": 5438.0
     },
     {
       "rank": 4,
-      "symbol": "6758",
-      "name": "ソニーグループ",
-      "score": 0,
-      "summary": "適正株価と現在値の乖離率 +0.0%",
-      "gapPercent": 0.0,
-      "fairValue": 3928.0,
-      "currentPrice": 3928.0
-    },
-    {
-      "rank": 5,
-      "symbol": "6954",
-      "name": "ファナック",
-      "score": 0,
-      "summary": "適正株価と現在値の乖離率 +0.0%",
-      "gapPercent": 0.0,
-      "fairValue": 6052.0,
-      "currentPrice": 6052.0
-    },
-    {
-      "rank": 6,
-      "symbol": "7203",
-      "name": "トヨタ自動車",
-      "score": 0,
-      "summary": "適正株価と現在値の乖離率 +0.0%",
-      "gapPercent": 0.0,
-      "fairValue": 3116.0,
-      "currentPrice": 3116.0
-    },
-    {
-      "rank": 7,
-      "symbol": "6501",
-      "name": "日立製作所",
-      "score": 0,
-      "summary": "適正株価と現在値の乖離率 +0.0%",
-      "gapPercent": 0.0,
-      "fairValue": 5550.0,
-      "currentPrice": 5550.0
-    },
-    {
-      "rank": 8,
-      "symbol": "9432",
-      "name": "NTTドコモ",
-      "score": 0,
-      "summary": "適正株価と現在値の乖離率 +0.0%",
-      "gapPercent": 0.0,
-      "fairValue": 168.6,
-      "currentPrice": 168.6
-    },
-    {
-      "rank": 9,
       "symbol": "9984",
       "name": "ソフトバンクグループ",
       "score": 0,
-      "summary": "適正株価と現在値の乖離率 +0.0%",
-      "gapPercent": 0.0,
-      "fairValue": 5161.0,
-      "currentPrice": 5161.0
+      "summary": "適正株価と現在値の乖離率 +0.2%",
+      "gapPercent": 0.16,
+      "fairValue": 5208.31,
+      "currentPrice": 5200.0
     },
     {
-      "rank": 10,
+      "rank": 5,
+      "symbol": "8035",
+      "name": "東京エレクトロン",
+      "score": 0,
+      "summary": "適正株価と現在値の乖離率 +0.2%",
+      "gapPercent": 0.15,
+      "fairValue": 56527.28,
+      "currentPrice": 56440.0
+    },
+    {
+      "rank": 6,
       "symbol": "4519",
       "name": "中外製薬",
       "score": 0,
-      "summary": "適正株価と現在値の乖離率 +0.0%",
-      "gapPercent": 0.0,
-      "fairValue": 7033.0,
-      "currentPrice": 7033.0
+      "summary": "適正株価と現在値の乖離率 +0.1%",
+      "gapPercent": 0.12,
+      "fairValue": 6921.12,
+      "currentPrice": 6913.0
+    },
+    {
+      "rank": 7,
+      "symbol": "6758",
+      "name": "ソニーグループ",
+      "score": 0,
+      "summary": "適正株価と現在値の乖離率 +0.1%",
+      "gapPercent": 0.07,
+      "fairValue": 4018.64,
+      "currentPrice": 4016.0
+    },
+    {
+      "rank": 8,
+      "symbol": "7203",
+      "name": "トヨタ自動車",
+      "score": 0,
+      "summary": "適正株価と現在値の乖離率 +0.1%",
+      "gapPercent": 0.06,
+      "fairValue": 3157.96,
+      "currentPrice": 3156.0
+    },
+    {
+      "rank": 9,
+      "symbol": "6954",
+      "name": "ファナック",
+      "score": 0,
+      "summary": "適正株価と現在値の乖離率 +0.1%",
+      "gapPercent": 0.05,
+      "fairValue": 6058.04,
+      "currentPrice": 6055.0
+    },
+    {
+      "rank": 10,
+      "symbol": "9432",
+      "name": "NTTドコモ",
+      "score": 0,
+      "summary": "適正株価と現在値の乖離率 +0.1%",
+      "gapPercent": 0.05,
+      "fairValue": 172.59,
+      "currentPrice": 172.5
     }
   ]
 }

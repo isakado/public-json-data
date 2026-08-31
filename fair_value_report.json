@@ -1,1054 +1,1054 @@
 {
-  "generatedAt": "2026-08-30T11:10:06Z",
+  "generatedAt": "2026-08-31T12:59:37Z",
   "stocks": [
     {
       "symbol": "8035",
       "name": "東京エレクトロン",
       "category": "overall",
-      "currentPrice": 56230.0,
-      "fairValue": 56230.0,
+      "currentPrice": 56440.0,
+      "fairValue": 56527.281643644,
       "fairValueRange": {
-        "min": 50607.0,
-        "max": 61853.00000000001
+        "min": 50874.553479279595,
+        "max": 62180.0098080084
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "簡易評価",
+      "upsidePercent": 0.15,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "7974",
       "name": "任天堂",
       "category": "overall",
-      "currentPrice": 8993.0,
-      "fairValue": 8993.0,
+      "currentPrice": 9044.0,
+      "fairValue": 9496.2,
       "fairValueRange": {
-        "min": 8093.7,
-        "max": 9892.300000000001
+        "min": 8546.580000000002,
+        "max": 10445.820000000002
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "参考評価",
+      "upsidePercent": 5.0,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "6861",
       "name": "キーエンス",
       "category": "overall",
-      "currentPrice": 82960.0,
-      "fairValue": 82960.0,
+      "currentPrice": 83660.0,
+      "fairValue": 87843.0,
       "fairValueRange": {
-        "min": 74664.0,
-        "max": 91256.00000000001
+        "min": 79058.7,
+        "max": 96627.3
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "参考評価",
+      "upsidePercent": 5.0,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "6758",
       "name": "ソニーグループ",
       "category": "overall",
-      "currentPrice": 3928.0,
-      "fairValue": 3928.0,
+      "currentPrice": 4016.0,
+      "fairValue": 4018.6425277992003,
       "fairValueRange": {
-        "min": 3535.2000000000003,
-        "max": 4320.8
+        "min": 3616.7782750192805,
+        "max": 4420.5067805791205
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "簡易評価",
+      "upsidePercent": 0.07,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "6954",
       "name": "ファナック",
       "category": "overall",
-      "currentPrice": 6052.0,
-      "fairValue": 6052.0,
+      "currentPrice": 6055.0,
+      "fairValue": 6058.04233475,
       "fairValueRange": {
-        "min": 5446.8,
-        "max": 6657.200000000001
+        "min": 5452.238101275,
+        "max": 6663.846568225001
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "簡易評価",
+      "upsidePercent": 0.05,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "7203",
       "name": "トヨタ自動車",
       "category": "overall",
-      "currentPrice": 3116.0,
-      "fairValue": 3116.0,
+      "currentPrice": 3156.0,
+      "fairValue": 3157.9573511999997,
       "fairValueRange": {
-        "min": 2804.4,
-        "max": 3427.6000000000004
+        "min": 2842.16161608,
+        "max": 3473.75308632
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "簡易評価",
+      "upsidePercent": 0.06,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "6501",
       "name": "日立製作所",
       "category": "overall",
-      "currentPrice": 5550.0,
-      "fairValue": 5550.0,
+      "currentPrice": 5438.0,
+      "fairValue": 5709.900000000001,
       "fairValueRange": {
-        "min": 4995.0,
-        "max": 6105.000000000001
+        "min": 5138.910000000001,
+        "max": 6280.890000000001
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "参考評価",
+      "upsidePercent": 5.0,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "9432",
       "name": "NTTドコモ",
       "category": "overall",
-      "currentPrice": 168.6,
-      "fairValue": 168.6,
+      "currentPrice": 172.5,
+      "fairValue": 172.592399630175,
       "fairValueRange": {
-        "min": 151.74,
-        "max": 185.46
+        "min": 155.3331596671575,
+        "max": 189.85163959319252
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "簡易評価",
+      "upsidePercent": 0.05,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "9984",
       "name": "ソフトバンクグループ",
       "category": "overall",
-      "currentPrice": 5161.0,
-      "fairValue": 5161.0,
+      "currentPrice": 5200.0,
+      "fairValue": 5208.310640000001,
       "fairValueRange": {
-        "min": 4644.900000000001,
-        "max": 5677.1
+        "min": 4687.479576000001,
+        "max": 5729.1417040000015
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "簡易評価",
+      "upsidePercent": 0.16,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "4519",
       "name": "中外製薬",
       "category": "overall",
-      "currentPrice": 7033.0,
-      "fairValue": 7033.0,
+      "currentPrice": 6913.0,
+      "fairValue": 6921.120355450001,
       "fairValueRange": {
-        "min": 6329.7,
-        "max": 7736.3
+        "min": 6229.0083199050005,
+        "max": 7613.232390995001
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "簡易評価",
+      "upsidePercent": 0.12,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "8035",
       "name": "東京エレクトロン",
       "category": "valuation",
-      "currentPrice": 56230.0,
-      "fairValue": 56230.0,
+      "currentPrice": 56440.0,
+      "fairValue": 56527.281643644,
       "fairValueRange": {
-        "min": 50607.0,
-        "max": 61853.00000000001
+        "min": 50874.553479279595,
+        "max": 62180.0098080084
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "簡易評価",
+      "upsidePercent": 0.15,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "6861",
       "name": "キーエンス",
       "category": "valuation",
-      "currentPrice": 82960.0,
-      "fairValue": 82960.0,
+      "currentPrice": 83660.0,
+      "fairValue": 87843.0,
       "fairValueRange": {
-        "min": 74664.0,
-        "max": 91256.00000000001
+        "min": 79058.7,
+        "max": 96627.3
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "参考評価",
+      "upsidePercent": 5.0,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "7974",
       "name": "任天堂",
       "category": "valuation",
-      "currentPrice": 8993.0,
-      "fairValue": 8993.0,
+      "currentPrice": 9044.0,
+      "fairValue": 9496.2,
       "fairValueRange": {
-        "min": 8093.7,
-        "max": 9892.300000000001
+        "min": 8546.580000000002,
+        "max": 10445.820000000002
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "参考評価",
+      "upsidePercent": 5.0,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "6758",
       "name": "ソニーグループ",
       "category": "valuation",
-      "currentPrice": 3928.0,
-      "fairValue": 3928.0,
+      "currentPrice": 4016.0,
+      "fairValue": 4018.6425277992003,
       "fairValueRange": {
-        "min": 3535.2000000000003,
-        "max": 4320.8
+        "min": 3616.7782750192805,
+        "max": 4420.5067805791205
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "簡易評価",
+      "upsidePercent": 0.07,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "6954",
       "name": "ファナック",
       "category": "valuation",
-      "currentPrice": 6052.0,
-      "fairValue": 6052.0,
+      "currentPrice": 6055.0,
+      "fairValue": 6058.04233475,
       "fairValueRange": {
-        "min": 5446.8,
-        "max": 6657.200000000001
+        "min": 5452.238101275,
+        "max": 6663.846568225001
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "簡易評価",
+      "upsidePercent": 0.05,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "7203",
       "name": "トヨタ自動車",
       "category": "valuation",
-      "currentPrice": 3116.0,
-      "fairValue": 3116.0,
+      "currentPrice": 3156.0,
+      "fairValue": 3157.9573511999997,
       "fairValueRange": {
-        "min": 2804.4,
-        "max": 3427.6000000000004
+        "min": 2842.16161608,
+        "max": 3473.75308632
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "簡易評価",
+      "upsidePercent": 0.06,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "9432",
       "name": "NTTドコモ",
       "category": "valuation",
-      "currentPrice": 168.6,
-      "fairValue": 168.6,
+      "currentPrice": 172.5,
+      "fairValue": 172.592399630175,
       "fairValueRange": {
-        "min": 151.74,
-        "max": 185.46
+        "min": 155.3331596671575,
+        "max": 189.85163959319252
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "簡易評価",
+      "upsidePercent": 0.05,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "9984",
       "name": "ソフトバンクグループ",
       "category": "valuation",
-      "currentPrice": 5161.0,
-      "fairValue": 5161.0,
+      "currentPrice": 5200.0,
+      "fairValue": 5208.310640000001,
       "fairValueRange": {
-        "min": 4644.900000000001,
-        "max": 5677.1
+        "min": 4687.479576000001,
+        "max": 5729.1417040000015
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "簡易評価",
+      "upsidePercent": 0.16,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "6501",
       "name": "日立製作所",
       "category": "valuation",
-      "currentPrice": 5550.0,
-      "fairValue": 5550.0,
+      "currentPrice": 5438.0,
+      "fairValue": 5709.900000000001,
       "fairValueRange": {
-        "min": 4995.0,
-        "max": 6105.000000000001
+        "min": 5138.910000000001,
+        "max": 6280.890000000001
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "参考評価",
+      "upsidePercent": 5.0,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "4519",
       "name": "中外製薬",
       "category": "valuation",
-      "currentPrice": 7033.0,
-      "fairValue": 7033.0,
+      "currentPrice": 6913.0,
+      "fairValue": 6921.120355450001,
       "fairValueRange": {
-        "min": 6329.7,
-        "max": 7736.3
+        "min": 6229.0083199050005,
+        "max": 7613.232390995001
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "簡易評価",
+      "upsidePercent": 0.12,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "8035",
       "name": "東京エレクトロン",
       "category": "quality",
-      "currentPrice": 56230.0,
-      "fairValue": 56230.0,
+      "currentPrice": 56440.0,
+      "fairValue": 56527.281643644,
       "fairValueRange": {
-        "min": 50607.0,
-        "max": 61853.00000000001
+        "min": 50874.553479279595,
+        "max": 62180.0098080084
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "簡易評価",
+      "upsidePercent": 0.15,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "6861",
       "name": "キーエンス",
       "category": "quality",
-      "currentPrice": 82960.0,
-      "fairValue": 82960.0,
+      "currentPrice": 83660.0,
+      "fairValue": 87843.0,
       "fairValueRange": {
-        "min": 74664.0,
-        "max": 91256.00000000001
+        "min": 79058.7,
+        "max": 96627.3
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "参考評価",
+      "upsidePercent": 5.0,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "6954",
       "name": "ファナック",
       "category": "quality",
-      "currentPrice": 6052.0,
-      "fairValue": 6052.0,
+      "currentPrice": 6055.0,
+      "fairValue": 6058.04233475,
       "fairValueRange": {
-        "min": 5446.8,
-        "max": 6657.200000000001
+        "min": 5452.238101275,
+        "max": 6663.846568225001
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "簡易評価",
+      "upsidePercent": 0.05,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "8306",
       "name": "三菱UFJフィナンシャル・グループ",
       "category": "quality",
-      "currentPrice": 3658.0,
-      "fairValue": 3658.0,
+      "currentPrice": 3680.0,
+      "fairValue": 3681.740455816,
       "fairValueRange": {
-        "min": 3292.2000000000003,
-        "max": 4023.8
+        "min": 3313.5664102344003,
+        "max": 4049.9145013976004
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "簡易評価",
+      "upsidePercent": 0.05,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "6501",
       "name": "日立製作所",
       "category": "quality",
-      "currentPrice": 5550.0,
-      "fairValue": 5550.0,
+      "currentPrice": 5438.0,
+      "fairValue": 5709.900000000001,
       "fairValueRange": {
-        "min": 4995.0,
-        "max": 6105.000000000001
+        "min": 5138.910000000001,
+        "max": 6280.890000000001
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "参考評価",
+      "upsidePercent": 5.0,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "7203",
       "name": "トヨタ自動車",
       "category": "quality",
-      "currentPrice": 3116.0,
-      "fairValue": 3116.0,
+      "currentPrice": 3156.0,
+      "fairValue": 3157.9573511999997,
       "fairValueRange": {
-        "min": 2804.4,
-        "max": 3427.6000000000004
+        "min": 2842.16161608,
+        "max": 3473.75308632
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "簡易評価",
+      "upsidePercent": 0.06,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "4519",
       "name": "中外製薬",
       "category": "quality",
-      "currentPrice": 7033.0,
-      "fairValue": 7033.0,
+      "currentPrice": 6913.0,
+      "fairValue": 6921.120355450001,
       "fairValueRange": {
-        "min": 6329.7,
-        "max": 7736.3
+        "min": 6229.0083199050005,
+        "max": 7613.232390995001
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "簡易評価",
+      "upsidePercent": 0.12,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "4502",
       "name": "武田薬品工業",
       "category": "quality",
-      "currentPrice": 5800.0,
-      "fairValue": 5800.0,
+      "currentPrice": 5765.0,
+      "fairValue": 6053.25,
       "fairValueRange": {
-        "min": 5220.0,
-        "max": 6380.000000000001
+        "min": 5447.925,
+        "max": 6658.575000000001
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "参考評価",
+      "upsidePercent": 5.0,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "6758",
       "name": "ソニーグループ",
       "category": "quality",
-      "currentPrice": 3928.0,
-      "fairValue": 3928.0,
+      "currentPrice": 4016.0,
+      "fairValue": 4018.6425277992003,
       "fairValueRange": {
-        "min": 3535.2000000000003,
-        "max": 4320.8
+        "min": 3616.7782750192805,
+        "max": 4420.5067805791205
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "簡易評価",
+      "upsidePercent": 0.07,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "7974",
       "name": "任天堂",
       "category": "quality",
-      "currentPrice": 8993.0,
-      "fairValue": 8993.0,
+      "currentPrice": 9044.0,
+      "fairValue": 9496.2,
       "fairValueRange": {
-        "min": 8093.7,
-        "max": 9892.300000000001
+        "min": 8546.580000000002,
+        "max": 10445.820000000002
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "参考評価",
+      "upsidePercent": 5.0,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "7974",
       "name": "任天堂",
       "category": "momentum",
-      "currentPrice": 8993.0,
-      "fairValue": 8993.0,
+      "currentPrice": 9044.0,
+      "fairValue": 9496.2,
       "fairValueRange": {
-        "min": 8093.7,
-        "max": 9892.300000000001
+        "min": 8546.580000000002,
+        "max": 10445.820000000002
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "参考評価",
+      "upsidePercent": 5.0,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "8035",
       "name": "東京エレクトロン",
       "category": "momentum",
-      "currentPrice": 56230.0,
-      "fairValue": 56230.0,
+      "currentPrice": 56440.0,
+      "fairValue": 56527.281643644,
       "fairValueRange": {
-        "min": 50607.0,
-        "max": 61853.00000000001
+        "min": 50874.553479279595,
+        "max": 62180.0098080084
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "簡易評価",
+      "upsidePercent": 0.15,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "6954",
       "name": "ファナック",
       "category": "momentum",
-      "currentPrice": 6052.0,
-      "fairValue": 6052.0,
+      "currentPrice": 6055.0,
+      "fairValue": 6058.04233475,
       "fairValueRange": {
-        "min": 5446.8,
-        "max": 6657.200000000001
+        "min": 5452.238101275,
+        "max": 6663.846568225001
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "簡易評価",
+      "upsidePercent": 0.05,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "6861",
       "name": "キーエンス",
       "category": "momentum",
-      "currentPrice": 82960.0,
-      "fairValue": 82960.0,
+      "currentPrice": 83660.0,
+      "fairValue": 87843.0,
       "fairValueRange": {
-        "min": 74664.0,
-        "max": 91256.00000000001
+        "min": 79058.7,
+        "max": 96627.3
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "参考評価",
+      "upsidePercent": 5.0,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "6758",
       "name": "ソニーグループ",
       "category": "momentum",
-      "currentPrice": 3928.0,
-      "fairValue": 3928.0,
+      "currentPrice": 4016.0,
+      "fairValue": 4018.6425277992003,
       "fairValueRange": {
-        "min": 3535.2000000000003,
-        "max": 4320.8
+        "min": 3616.7782750192805,
+        "max": 4420.5067805791205
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "簡易評価",
+      "upsidePercent": 0.07,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "9984",
       "name": "ソフトバンクグループ",
       "category": "momentum",
-      "currentPrice": 5161.0,
-      "fairValue": 5161.0,
+      "currentPrice": 5200.0,
+      "fairValue": 5208.310640000001,
       "fairValueRange": {
-        "min": 4644.900000000001,
-        "max": 5677.1
+        "min": 4687.479576000001,
+        "max": 5729.1417040000015
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "簡易評価",
+      "upsidePercent": 0.16,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "9432",
       "name": "NTTドコモ",
       "category": "momentum",
-      "currentPrice": 168.6,
-      "fairValue": 168.6,
+      "currentPrice": 172.5,
+      "fairValue": 172.592399630175,
       "fairValueRange": {
-        "min": 151.74,
-        "max": 185.46
+        "min": 155.3331596671575,
+        "max": 189.85163959319252
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "簡易評価",
+      "upsidePercent": 0.05,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "6501",
       "name": "日立製作所",
       "category": "momentum",
-      "currentPrice": 5550.0,
-      "fairValue": 5550.0,
+      "currentPrice": 5438.0,
+      "fairValue": 5709.900000000001,
       "fairValueRange": {
-        "min": 4995.0,
-        "max": 6105.000000000001
+        "min": 5138.910000000001,
+        "max": 6280.890000000001
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "参考評価",
+      "upsidePercent": 5.0,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "4519",
       "name": "中外製薬",
       "category": "momentum",
-      "currentPrice": 7033.0,
-      "fairValue": 7033.0,
+      "currentPrice": 6913.0,
+      "fairValue": 6921.120355450001,
       "fairValueRange": {
-        "min": 6329.7,
-        "max": 7736.3
+        "min": 6229.0083199050005,
+        "max": 7613.232390995001
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "簡易評価",
+      "upsidePercent": 0.12,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "7203",
       "name": "トヨタ自動車",
       "category": "momentum",
-      "currentPrice": 3116.0,
-      "fairValue": 3116.0,
+      "currentPrice": 3156.0,
+      "fairValue": 3157.9573511999997,
       "fairValueRange": {
-        "min": 2804.4,
-        "max": 3427.6000000000004
+        "min": 2842.16161608,
+        "max": 3473.75308632
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "簡易評価",
+      "upsidePercent": 0.06,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "8035",
       "name": "東京エレクトロン",
       "category": "sentiment",
-      "currentPrice": 56230.0,
-      "fairValue": 56230.0,
+      "currentPrice": 56440.0,
+      "fairValue": 56527.281643644,
       "fairValueRange": {
-        "min": 50607.0,
-        "max": 61853.00000000001
+        "min": 50874.553479279595,
+        "max": 62180.0098080084
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "簡易評価",
+      "upsidePercent": 0.15,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "7974",
       "name": "任天堂",
       "category": "sentiment",
-      "currentPrice": 8993.0,
-      "fairValue": 8993.0,
+      "currentPrice": 9044.0,
+      "fairValue": 9496.2,
       "fairValueRange": {
-        "min": 8093.7,
-        "max": 9892.300000000001
+        "min": 8546.580000000002,
+        "max": 10445.820000000002
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "参考評価",
+      "upsidePercent": 5.0,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "6861",
       "name": "キーエンス",
       "category": "sentiment",
-      "currentPrice": 82960.0,
-      "fairValue": 82960.0,
+      "currentPrice": 83660.0,
+      "fairValue": 87843.0,
       "fairValueRange": {
-        "min": 74664.0,
-        "max": 91256.00000000001
+        "min": 79058.7,
+        "max": 96627.3
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "参考評価",
+      "upsidePercent": 5.0,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "6758",
       "name": "ソニーグループ",
       "category": "sentiment",
-      "currentPrice": 3928.0,
-      "fairValue": 3928.0,
+      "currentPrice": 4016.0,
+      "fairValue": 4018.6425277992003,
       "fairValueRange": {
-        "min": 3535.2000000000003,
-        "max": 4320.8
+        "min": 3616.7782750192805,
+        "max": 4420.5067805791205
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "簡易評価",
+      "upsidePercent": 0.07,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "6954",
       "name": "ファナック",
       "category": "sentiment",
-      "currentPrice": 6052.0,
-      "fairValue": 6052.0,
+      "currentPrice": 6055.0,
+      "fairValue": 6058.04233475,
       "fairValueRange": {
-        "min": 5446.8,
-        "max": 6657.200000000001
+        "min": 5452.238101275,
+        "max": 6663.846568225001
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "簡易評価",
+      "upsidePercent": 0.05,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "9984",
       "name": "ソフトバンクグループ",
       "category": "sentiment",
-      "currentPrice": 5161.0,
-      "fairValue": 5161.0,
+      "currentPrice": 5200.0,
+      "fairValue": 5208.310640000001,
       "fairValueRange": {
-        "min": 4644.900000000001,
-        "max": 5677.1
+        "min": 4687.479576000001,
+        "max": 5729.1417040000015
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "簡易評価",
+      "upsidePercent": 0.16,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "9432",
       "name": "NTTドコモ",
       "category": "sentiment",
-      "currentPrice": 168.6,
-      "fairValue": 168.6,
+      "currentPrice": 172.5,
+      "fairValue": 172.592399630175,
       "fairValueRange": {
-        "min": 151.74,
-        "max": 185.46
+        "min": 155.3331596671575,
+        "max": 189.85163959319252
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "簡易評価",
+      "upsidePercent": 0.05,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "6501",
       "name": "日立製作所",
       "category": "sentiment",
-      "currentPrice": 5550.0,
-      "fairValue": 5550.0,
+      "currentPrice": 5438.0,
+      "fairValue": 5709.900000000001,
       "fairValueRange": {
-        "min": 4995.0,
-        "max": 6105.000000000001
+        "min": 5138.910000000001,
+        "max": 6280.890000000001
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "参考評価",
+      "upsidePercent": 5.0,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "8306",
       "name": "三菱UFJフィナンシャル・グループ",
       "category": "sentiment",
-      "currentPrice": 3658.0,
-      "fairValue": 3658.0,
+      "currentPrice": 3680.0,
+      "fairValue": 3681.740455816,
       "fairValueRange": {
-        "min": 3292.2000000000003,
-        "max": 4023.8
+        "min": 3313.5664102344003,
+        "max": 4049.9145013976004
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "簡易評価",
+      "upsidePercent": 0.05,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     },
     {
       "symbol": "4519",
       "name": "中外製薬",
       "category": "sentiment",
-      "currentPrice": 7033.0,
-      "fairValue": 7033.0,
+      "currentPrice": 6913.0,
+      "fairValue": 6921.120355450001,
       "fairValueRange": {
-        "min": 6329.7,
-        "max": 7736.3
+        "min": 6229.0083199050005,
+        "max": 7613.232390995001
       },
-      "valuationStatus": "判定不能",
-      "upsidePercent": 0.0,
+      "valuationStatus": "簡易評価",
+      "upsidePercent": 0.12,
       "downsidePercent": 0.0,
-      "summary": "最新データが取得できなかったため、現在価値を参考として扱います。",
+      "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
-        "データ不足"
+        "PBR/ROEベースの簡易評価"
       ],
       "risks": [
-        "評価が不確実"
+        "AI評価が未実施"
       ]
     }
   ]
