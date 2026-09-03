@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T23:52:21",
+  "generatedAt": "2026-09-01T00:59:40",
   "category": "featured",
   "count": 20,
   "items": [
@@ -17,7 +17,7 @@
       "hiddenGrowthScore": 92,
       "confidenceScore": 91,
       "dataSource": "mock",
-      "dataDate": "2026-09-03"
+      "dataDate": "2026-09-01"
     },
     {
       "rank": 2,
@@ -33,7 +33,7 @@
       "hiddenGrowthScore": 88,
       "confidenceScore": 86,
       "dataSource": "mock",
-      "dataDate": "2026-09-03"
+      "dataDate": "2026-09-01"
     },
     {
       "rank": 3,
@@ -49,7 +49,7 @@
       "hiddenGrowthScore": 90,
       "confidenceScore": 85,
       "dataSource": "mock",
-      "dataDate": "2026-09-03"
+      "dataDate": "2026-09-01"
     },
     {
       "rank": 4,
@@ -65,7 +65,7 @@
       "hiddenGrowthScore": 86,
       "confidenceScore": 90,
       "dataSource": "mock",
-      "dataDate": "2026-09-03"
+      "dataDate": "2026-09-01"
     },
     {
       "rank": 5,
@@ -81,7 +81,7 @@
       "hiddenGrowthScore": 70,
       "confidenceScore": 89,
       "dataSource": "mock",
-      "dataDate": "2026-09-03"
+      "dataDate": "2026-09-01"
     },
     {
       "rank": 6,
@@ -97,7 +97,7 @@
       "hiddenGrowthScore": 79,
       "confidenceScore": 88,
       "dataSource": "mock",
-      "dataDate": "2026-09-03"
+      "dataDate": "2026-09-01"
     },
     {
       "rank": 7,
@@ -113,7 +113,7 @@
       "hiddenGrowthScore": 78,
       "confidenceScore": 94,
       "dataSource": "mock",
-      "dataDate": "2026-09-03"
+      "dataDate": "2026-09-01"
     },
     {
       "rank": 8,
@@ -129,7 +129,7 @@
       "hiddenGrowthScore": 78,
       "confidenceScore": 85,
       "dataSource": "mock",
-      "dataDate": "2026-09-03"
+      "dataDate": "2026-09-01"
     },
     {
       "rank": 9,
@@ -145,7 +145,7 @@
       "hiddenGrowthScore": 77,
       "confidenceScore": 87,
       "dataSource": "mock",
-      "dataDate": "2026-09-03"
+      "dataDate": "2026-09-01"
     },
     {
       "rank": 10,
@@ -161,7 +161,7 @@
       "hiddenGrowthScore": 75,
       "confidenceScore": 84,
       "dataSource": "mock",
-      "dataDate": "2026-09-03"
+      "dataDate": "2026-09-01"
     },
     {
       "rank": 11,
@@ -177,7 +177,7 @@
       "hiddenGrowthScore": 74,
       "confidenceScore": 83,
       "dataSource": "mock",
-      "dataDate": "2026-09-03"
+      "dataDate": "2026-09-01"
     },
     {
       "rank": 12,
@@ -193,7 +193,7 @@
       "hiddenGrowthScore": 70,
       "confidenceScore": 80,
       "dataSource": "mock",
-      "dataDate": "2026-09-03"
+      "dataDate": "2026-09-01"
     },
     {
       "rank": 13,
@@ -209,7 +209,7 @@
       "hiddenGrowthScore": 72,
       "confidenceScore": 82,
       "dataSource": "mock",
-      "dataDate": "2026-09-03"
+      "dataDate": "2026-09-01"
     },
     {
       "rank": 14,
@@ -225,7 +225,7 @@
       "hiddenGrowthScore": 69,
       "confidenceScore": 79,
       "dataSource": "mock",
-      "dataDate": "2026-09-03"
+      "dataDate": "2026-09-01"
     },
     {
       "rank": 15,
@@ -241,7 +241,7 @@
       "hiddenGrowthScore": 68,
       "confidenceScore": 78,
       "dataSource": "mock",
-      "dataDate": "2026-09-03"
+      "dataDate": "2026-09-01"
     },
     {
       "rank": 16,
@@ -257,7 +257,7 @@
       "hiddenGrowthScore": 35,
       "confidenceScore": 92,
       "dataSource": "mock",
-      "dataDate": "2026-09-03"
+      "dataDate": "2026-09-01"
     },
     {
       "rank": 17,
@@ -273,7 +273,7 @@
       "hiddenGrowthScore": 51,
       "confidenceScore": 73,
       "dataSource": "mock",
-      "dataDate": "2026-09-03"
+      "dataDate": "2026-09-01"
     },
     {
       "rank": 18,
@@ -289,7 +289,7 @@
       "hiddenGrowthScore": null,
       "confidenceScore": 0,
       "dataSource": "mock",
-      "dataDate": "2026-09-03"
+      "dataDate": "2026-09-01"
     },
     {
       "rank": 19,
@@ -305,7 +305,7 @@
       "hiddenGrowthScore": null,
       "confidenceScore": 0,
       "dataSource": "mock",
-      "dataDate": "2026-09-03"
+      "dataDate": "2026-09-01"
     },
     {
       "rank": 20,
@@ -321,7 +321,7 @@
       "hiddenGrowthScore": null,
       "confidenceScore": 0,
       "dataSource": "mock",
-      "dataDate": "2026-09-03"
+      "dataDate": "2026-09-01"
     }
   ]
 }
