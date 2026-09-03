@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-31T15:54:29Z",
+  "generatedAt": "2026-09-02T12:36:57Z",
   "stocks": [
     {
       "symbol": "8035",
       "name": "東京エレクトロン",
       "category": "overall",
-      "currentPrice": 56440.0,
-      "fairValue": 56527.281643644,
+      "currentPrice": 53110.0,
+      "fairValue": 53192.131964811,
       "fairValueRange": {
-        "min": 50874.553479279595,
-        "max": 62180.0098080084
+        "min": 47872.9187683299,
+        "max": 58511.345161292105
       },
       "valuationStatus": "簡易評価",
       "upsidePercent": 0.15,
@@ -26,11 +26,11 @@
       "symbol": "7974",
       "name": "任天堂",
       "category": "overall",
-      "currentPrice": 9044.0,
-      "fairValue": 9496.2,
+      "currentPrice": 8821.0,
+      "fairValue": 9262.050000000001,
       "fairValueRange": {
-        "min": 8546.580000000002,
-        "max": 10445.820000000002
+        "min": 8335.845000000001,
+        "max": 10188.255000000003
       },
       "valuationStatus": "参考評価",
       "upsidePercent": 5.0,
@@ -47,11 +47,11 @@
       "symbol": "6861",
       "name": "キーエンス",
       "category": "overall",
-      "currentPrice": 83660.0,
-      "fairValue": 87843.0,
+      "currentPrice": 78020.0,
+      "fairValue": 81921.0,
       "fairValueRange": {
-        "min": 79058.7,
-        "max": 96627.3
+        "min": 73728.90000000001,
+        "max": 90113.1
       },
       "valuationStatus": "参考評価",
       "upsidePercent": 5.0,
@@ -68,11 +68,11 @@
       "symbol": "6758",
       "name": "ソニーグループ",
       "category": "overall",
-      "currentPrice": 4016.0,
-      "fairValue": 4018.6425277992003,
+      "currentPrice": 3920.0,
+      "fairValue": 3922.579359804,
       "fairValueRange": {
-        "min": 3616.7782750192805,
-        "max": 4420.5067805791205
+        "min": 3530.3214238236,
+        "max": 4314.8372957844
       },
       "valuationStatus": "簡易評価",
       "upsidePercent": 0.07,
@@ -89,11 +89,11 @@
       "symbol": "6954",
       "name": "ファナック",
       "category": "overall",
-      "currentPrice": 6055.0,
-      "fairValue": 6058.04233475,
+      "currentPrice": 5725.0,
+      "fairValue": 5727.876526249999,
       "fairValueRange": {
-        "min": 5452.238101275,
-        "max": 6663.846568225001
+        "min": 5155.088873624999,
+        "max": 6300.664178874999
       },
       "valuationStatus": "簡易評価",
       "upsidePercent": 0.05,
@@ -110,14 +110,14 @@
       "symbol": "7203",
       "name": "トヨタ自動車",
       "category": "overall",
-      "currentPrice": 3156.0,
-      "fairValue": 3157.9573511999997,
+      "currentPrice": 3133.0,
+      "fairValue": 3761.9317039199996,
       "fairValueRange": {
-        "min": 2842.16161608,
-        "max": 3473.75308632
+        "min": 3385.7385335279996,
+        "max": 4138.1248743119995
       },
       "valuationStatus": "簡易評価",
-      "upsidePercent": 0.06,
+      "upsidePercent": 20.07,
       "downsidePercent": 0.0,
       "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
@@ -131,11 +131,11 @@
       "symbol": "6501",
       "name": "日立製作所",
       "category": "overall",
-      "currentPrice": 5438.0,
-      "fairValue": 5709.900000000001,
+      "currentPrice": 5335.0,
+      "fairValue": 5601.75,
       "fairValueRange": {
-        "min": 5138.910000000001,
-        "max": 6280.890000000001
+        "min": 5041.575,
+        "max": 6161.925
       },
       "valuationStatus": "参考評価",
       "upsidePercent": 5.0,
@@ -152,11 +152,11 @@
       "symbol": "9432",
       "name": "NTTドコモ",
       "category": "overall",
-      "currentPrice": 172.5,
-      "fairValue": 172.592399630175,
+      "currentPrice": 175.2,
+      "fairValue": 175.293845885256,
       "fairValueRange": {
-        "min": 155.3331596671575,
-        "max": 189.85163959319252
+        "min": 157.7644612967304,
+        "max": 192.8232304737816
       },
       "valuationStatus": "簡易評価",
       "upsidePercent": 0.05,
@@ -173,11 +173,11 @@
       "symbol": "9984",
       "name": "ソフトバンクグループ",
       "category": "overall",
-      "currentPrice": 5200.0,
-      "fairValue": 5208.310640000001,
+      "currentPrice": 4924.0,
+      "fairValue": 4931.869536800001,
       "fairValueRange": {
-        "min": 4687.479576000001,
-        "max": 5729.1417040000015
+        "min": 4438.682583120001,
+        "max": 5425.056490480001
       },
       "valuationStatus": "簡易評価",
       "upsidePercent": 0.16,
@@ -194,11 +194,11 @@
       "symbol": "4519",
       "name": "中外製薬",
       "category": "overall",
-      "currentPrice": 6913.0,
-      "fairValue": 6921.120355450001,
+      "currentPrice": 6832.0,
+      "fairValue": 6840.025208800001,
       "fairValueRange": {
-        "min": 6229.0083199050005,
-        "max": 7613.232390995001
+        "min": 6156.022687920001,
+        "max": 7524.027729680001
       },
       "valuationStatus": "簡易評価",
       "upsidePercent": 0.12,
@@ -215,11 +215,11 @@
       "symbol": "8035",
       "name": "東京エレクトロン",
       "category": "valuation",
-      "currentPrice": 56440.0,
-      "fairValue": 56527.281643644,
+      "currentPrice": 53110.0,
+      "fairValue": 53192.131964811,
       "fairValueRange": {
-        "min": 50874.553479279595,
-        "max": 62180.0098080084
+        "min": 47872.9187683299,
+        "max": 58511.345161292105
       },
       "valuationStatus": "簡易評価",
       "upsidePercent": 0.15,
@@ -236,11 +236,11 @@
       "symbol": "6861",
       "name": "キーエンス",
       "category": "valuation",
-      "currentPrice": 83660.0,
-      "fairValue": 87843.0,
+      "currentPrice": 78020.0,
+      "fairValue": 81921.0,
       "fairValueRange": {
-        "min": 79058.7,
-        "max": 96627.3
+        "min": 73728.90000000001,
+        "max": 90113.1
       },
       "valuationStatus": "参考評価",
       "upsidePercent": 5.0,
@@ -257,11 +257,11 @@
       "symbol": "7974",
       "name": "任天堂",
       "category": "valuation",
-      "currentPrice": 9044.0,
-      "fairValue": 9496.2,
+      "currentPrice": 8821.0,
+      "fairValue": 9262.050000000001,
       "fairValueRange": {
-        "min": 8546.580000000002,
-        "max": 10445.820000000002
+        "min": 8335.845000000001,
+        "max": 10188.255000000003
       },
       "valuationStatus": "参考評価",
       "upsidePercent": 5.0,
@@ -278,11 +278,11 @@
       "symbol": "6758",
       "name": "ソニーグループ",
       "category": "valuation",
-      "currentPrice": 4016.0,
-      "fairValue": 4018.6425277992003,
+      "currentPrice": 3920.0,
+      "fairValue": 3922.579359804,
       "fairValueRange": {
-        "min": 3616.7782750192805,
-        "max": 4420.5067805791205
+        "min": 3530.3214238236,
+        "max": 4314.8372957844
       },
       "valuationStatus": "簡易評価",
       "upsidePercent": 0.07,
@@ -299,11 +299,11 @@
       "symbol": "6954",
       "name": "ファナック",
       "category": "valuation",
-      "currentPrice": 6055.0,
-      "fairValue": 6058.04233475,
+      "currentPrice": 5725.0,
+      "fairValue": 5727.876526249999,
       "fairValueRange": {
-        "min": 5452.238101275,
-        "max": 6663.846568225001
+        "min": 5155.088873624999,
+        "max": 6300.664178874999
       },
       "valuationStatus": "簡易評価",
       "upsidePercent": 0.05,
@@ -320,14 +320,14 @@
       "symbol": "7203",
       "name": "トヨタ自動車",
       "category": "valuation",
-      "currentPrice": 3156.0,
-      "fairValue": 3157.9573511999997,
+      "currentPrice": 3133.0,
+      "fairValue": 3761.9317039199996,
       "fairValueRange": {
-        "min": 2842.16161608,
-        "max": 3473.75308632
+        "min": 3385.7385335279996,
+        "max": 4138.1248743119995
       },
       "valuationStatus": "簡易評価",
-      "upsidePercent": 0.06,
+      "upsidePercent": 20.07,
       "downsidePercent": 0.0,
       "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
@@ -341,11 +341,11 @@
       "symbol": "9432",
       "name": "NTTドコモ",
       "category": "valuation",
-      "currentPrice": 172.5,
-      "fairValue": 172.592399630175,
+      "currentPrice": 175.2,
+      "fairValue": 175.293845885256,
       "fairValueRange": {
-        "min": 155.3331596671575,
-        "max": 189.85163959319252
+        "min": 157.7644612967304,
+        "max": 192.8232304737816
       },
       "valuationStatus": "簡易評価",
       "upsidePercent": 0.05,
@@ -362,11 +362,11 @@
       "symbol": "9984",
       "name": "ソフトバンクグループ",
       "category": "valuation",
-      "currentPrice": 5200.0,
-      "fairValue": 5208.310640000001,
+      "currentPrice": 4924.0,
+      "fairValue": 4931.869536800001,
       "fairValueRange": {
-        "min": 4687.479576000001,
-        "max": 5729.1417040000015
+        "min": 4438.682583120001,
+        "max": 5425.056490480001
       },
       "valuationStatus": "簡易評価",
       "upsidePercent": 0.16,
@@ -383,11 +383,11 @@
       "symbol": "6501",
       "name": "日立製作所",
       "category": "valuation",
-      "currentPrice": 5438.0,
-      "fairValue": 5709.900000000001,
+      "currentPrice": 5335.0,
+      "fairValue": 5601.75,
       "fairValueRange": {
-        "min": 5138.910000000001,
-        "max": 6280.890000000001
+        "min": 5041.575,
+        "max": 6161.925
       },
       "valuationStatus": "参考評価",
       "upsidePercent": 5.0,
@@ -404,11 +404,11 @@
       "symbol": "4519",
       "name": "中外製薬",
       "category": "valuation",
-      "currentPrice": 6913.0,
-      "fairValue": 6921.120355450001,
+      "currentPrice": 6832.0,
+      "fairValue": 6840.025208800001,
       "fairValueRange": {
-        "min": 6229.0083199050005,
-        "max": 7613.232390995001
+        "min": 6156.022687920001,
+        "max": 7524.027729680001
       },
       "valuationStatus": "簡易評価",
       "upsidePercent": 0.12,
@@ -425,11 +425,11 @@
       "symbol": "8035",
       "name": "東京エレクトロン",
       "category": "quality",
-      "currentPrice": 56440.0,
-      "fairValue": 56527.281643644,
+      "currentPrice": 53110.0,
+      "fairValue": 53192.131964811,
       "fairValueRange": {
-        "min": 50874.553479279595,
-        "max": 62180.0098080084
+        "min": 47872.9187683299,
+        "max": 58511.345161292105
       },
       "valuationStatus": "簡易評価",
       "upsidePercent": 0.15,
@@ -446,11 +446,11 @@
       "symbol": "6861",
       "name": "キーエンス",
       "category": "quality",
-      "currentPrice": 83660.0,
-      "fairValue": 87843.0,
+      "currentPrice": 78020.0,
+      "fairValue": 81921.0,
       "fairValueRange": {
-        "min": 79058.7,
-        "max": 96627.3
+        "min": 73728.90000000001,
+        "max": 90113.1
       },
       "valuationStatus": "参考評価",
       "upsidePercent": 5.0,
@@ -467,11 +467,11 @@
       "symbol": "6954",
       "name": "ファナック",
       "category": "quality",
-      "currentPrice": 6055.0,
-      "fairValue": 6058.04233475,
+      "currentPrice": 5725.0,
+      "fairValue": 5727.876526249999,
       "fairValueRange": {
-        "min": 5452.238101275,
-        "max": 6663.846568225001
+        "min": 5155.088873624999,
+        "max": 6300.664178874999
       },
       "valuationStatus": "簡易評価",
       "upsidePercent": 0.05,
@@ -488,11 +488,11 @@
       "symbol": "8306",
       "name": "三菱UFJフィナンシャル・グループ",
       "category": "quality",
-      "currentPrice": 3680.0,
-      "fairValue": 3681.740455816,
+      "currentPrice": 3684.0,
+      "fairValue": 3685.7423476158,
       "fairValueRange": {
-        "min": 3313.5664102344003,
-        "max": 4049.9145013976004
+        "min": 3317.16811285422,
+        "max": 4054.3165823773807
       },
       "valuationStatus": "簡易評価",
       "upsidePercent": 0.05,
@@ -509,11 +509,11 @@
       "symbol": "6501",
       "name": "日立製作所",
       "category": "quality",
-      "currentPrice": 5438.0,
-      "fairValue": 5709.900000000001,
+      "currentPrice": 5335.0,
+      "fairValue": 5601.75,
       "fairValueRange": {
-        "min": 5138.910000000001,
-        "max": 6280.890000000001
+        "min": 5041.575,
+        "max": 6161.925
       },
       "valuationStatus": "参考評価",
       "upsidePercent": 5.0,
@@ -530,14 +530,14 @@
       "symbol": "7203",
       "name": "トヨタ自動車",
       "category": "quality",
-      "currentPrice": 3156.0,
-      "fairValue": 3157.9573511999997,
+      "currentPrice": 3133.0,
+      "fairValue": 3761.9317039199996,
       "fairValueRange": {
-        "min": 2842.16161608,
-        "max": 3473.75308632
+        "min": 3385.7385335279996,
+        "max": 4138.1248743119995
       },
       "valuationStatus": "簡易評価",
-      "upsidePercent": 0.06,
+      "upsidePercent": 20.07,
       "downsidePercent": 0.0,
       "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
@@ -551,11 +551,11 @@
       "symbol": "4519",
       "name": "中外製薬",
       "category": "quality",
-      "currentPrice": 6913.0,
-      "fairValue": 6921.120355450001,
+      "currentPrice": 6832.0,
+      "fairValue": 6840.025208800001,
       "fairValueRange": {
-        "min": 6229.0083199050005,
-        "max": 7613.232390995001
+        "min": 6156.022687920001,
+        "max": 7524.027729680001
       },
       "valuationStatus": "簡易評価",
       "upsidePercent": 0.12,
@@ -572,11 +572,11 @@
       "symbol": "4502",
       "name": "武田薬品工業",
       "category": "quality",
-      "currentPrice": 5765.0,
-      "fairValue": 6053.25,
+      "currentPrice": 5824.0,
+      "fairValue": 6115.2,
       "fairValueRange": {
-        "min": 5447.925,
-        "max": 6658.575000000001
+        "min": 5503.68,
+        "max": 6726.72
       },
       "valuationStatus": "参考評価",
       "upsidePercent": 5.0,
@@ -593,11 +593,11 @@
       "symbol": "6758",
       "name": "ソニーグループ",
       "category": "quality",
-      "currentPrice": 4016.0,
-      "fairValue": 4018.6425277992003,
+      "currentPrice": 3920.0,
+      "fairValue": 3922.579359804,
       "fairValueRange": {
-        "min": 3616.7782750192805,
-        "max": 4420.5067805791205
+        "min": 3530.3214238236,
+        "max": 4314.8372957844
       },
       "valuationStatus": "簡易評価",
       "upsidePercent": 0.07,
@@ -614,11 +614,11 @@
       "symbol": "7974",
       "name": "任天堂",
       "category": "quality",
-      "currentPrice": 9044.0,
-      "fairValue": 9496.2,
+      "currentPrice": 8821.0,
+      "fairValue": 9262.050000000001,
       "fairValueRange": {
-        "min": 8546.580000000002,
-        "max": 10445.820000000002
+        "min": 8335.845000000001,
+        "max": 10188.255000000003
       },
       "valuationStatus": "参考評価",
       "upsidePercent": 5.0,
@@ -635,11 +635,11 @@
       "symbol": "7974",
       "name": "任天堂",
       "category": "momentum",
-      "currentPrice": 9044.0,
-      "fairValue": 9496.2,
+      "currentPrice": 8821.0,
+      "fairValue": 9262.050000000001,
       "fairValueRange": {
-        "min": 8546.580000000002,
-        "max": 10445.820000000002
+        "min": 8335.845000000001,
+        "max": 10188.255000000003
       },
       "valuationStatus": "参考評価",
       "upsidePercent": 5.0,
@@ -656,11 +656,11 @@
       "symbol": "8035",
       "name": "東京エレクトロン",
       "category": "momentum",
-      "currentPrice": 56440.0,
-      "fairValue": 56527.281643644,
+      "currentPrice": 53110.0,
+      "fairValue": 53192.131964811,
       "fairValueRange": {
-        "min": 50874.553479279595,
-        "max": 62180.0098080084
+        "min": 47872.9187683299,
+        "max": 58511.345161292105
       },
       "valuationStatus": "簡易評価",
       "upsidePercent": 0.15,
@@ -677,11 +677,11 @@
       "symbol": "6954",
       "name": "ファナック",
       "category": "momentum",
-      "currentPrice": 6055.0,
-      "fairValue": 6058.04233475,
+      "currentPrice": 5725.0,
+      "fairValue": 5727.876526249999,
       "fairValueRange": {
-        "min": 5452.238101275,
-        "max": 6663.846568225001
+        "min": 5155.088873624999,
+        "max": 6300.664178874999
       },
       "valuationStatus": "簡易評価",
       "upsidePercent": 0.05,
@@ -698,11 +698,11 @@
       "symbol": "6861",
       "name": "キーエンス",
       "category": "momentum",
-      "currentPrice": 83660.0,
-      "fairValue": 87843.0,
+      "currentPrice": 78020.0,
+      "fairValue": 81921.0,
       "fairValueRange": {
-        "min": 79058.7,
-        "max": 96627.3
+        "min": 73728.90000000001,
+        "max": 90113.1
       },
       "valuationStatus": "参考評価",
       "upsidePercent": 5.0,
@@ -719,11 +719,11 @@
       "symbol": "6758",
       "name": "ソニーグループ",
       "category": "momentum",
-      "currentPrice": 4016.0,
-      "fairValue": 4018.6425277992003,
+      "currentPrice": 3920.0,
+      "fairValue": 3922.579359804,
       "fairValueRange": {
-        "min": 3616.7782750192805,
-        "max": 4420.5067805791205
+        "min": 3530.3214238236,
+        "max": 4314.8372957844
       },
       "valuationStatus": "簡易評価",
       "upsidePercent": 0.07,
@@ -740,11 +740,11 @@
       "symbol": "9984",
       "name": "ソフトバンクグループ",
       "category": "momentum",
-      "currentPrice": 5200.0,
-      "fairValue": 5208.310640000001,
+      "currentPrice": 4924.0,
+      "fairValue": 4931.869536800001,
       "fairValueRange": {
-        "min": 4687.479576000001,
-        "max": 5729.1417040000015
+        "min": 4438.682583120001,
+        "max": 5425.056490480001
       },
       "valuationStatus": "簡易評価",
       "upsidePercent": 0.16,
@@ -761,11 +761,11 @@
       "symbol": "9432",
       "name": "NTTドコモ",
       "category": "momentum",
-      "currentPrice": 172.5,
-      "fairValue": 172.592399630175,
+      "currentPrice": 175.2,
+      "fairValue": 175.293845885256,
       "fairValueRange": {
-        "min": 155.3331596671575,
-        "max": 189.85163959319252
+        "min": 157.7644612967304,
+        "max": 192.8232304737816
       },
       "valuationStatus": "簡易評価",
       "upsidePercent": 0.05,
@@ -782,11 +782,11 @@
       "symbol": "6501",
       "name": "日立製作所",
       "category": "momentum",
-      "currentPrice": 5438.0,
-      "fairValue": 5709.900000000001,
+      "currentPrice": 5335.0,
+      "fairValue": 5601.75,
       "fairValueRange": {
-        "min": 5138.910000000001,
-        "max": 6280.890000000001
+        "min": 5041.575,
+        "max": 6161.925
       },
       "valuationStatus": "参考評価",
       "upsidePercent": 5.0,
@@ -803,11 +803,11 @@
       "symbol": "4519",
       "name": "中外製薬",
       "category": "momentum",
-      "currentPrice": 6913.0,
-      "fairValue": 6921.120355450001,
+      "currentPrice": 6832.0,
+      "fairValue": 6840.025208800001,
       "fairValueRange": {
-        "min": 6229.0083199050005,
-        "max": 7613.232390995001
+        "min": 6156.022687920001,
+        "max": 7524.027729680001
       },
       "valuationStatus": "簡易評価",
       "upsidePercent": 0.12,
@@ -824,14 +824,14 @@
       "symbol": "7203",
       "name": "トヨタ自動車",
       "category": "momentum",
-      "currentPrice": 3156.0,
-      "fairValue": 3157.9573511999997,
+      "currentPrice": 3133.0,
+      "fairValue": 3761.9317039199996,
       "fairValueRange": {
-        "min": 2842.16161608,
-        "max": 3473.75308632
+        "min": 3385.7385335279996,
+        "max": 4138.1248743119995
       },
       "valuationStatus": "簡易評価",
-      "upsidePercent": 0.06,
+      "upsidePercent": 20.07,
       "downsidePercent": 0.0,
       "summary": "Gemini API が未設定または失敗したため、PBR/ROE ベースの簡易計算で適正株価を補完しました。",
       "drivers": [
@@ -845,11 +845,11 @@
       "symbol": "8035",
       "name": "東京エレクトロン",
       "category": "sentiment",
-      "currentPrice": 56440.0,
-      "fairValue": 56527.281643644,
+      "currentPrice": 53110.0,
+      "fairValue": 53192.131964811,
       "fairValueRange": {
-        "min": 50874.553479279595,
-        "max": 62180.0098080084
+        "min": 47872.9187683299,
+        "max": 58511.345161292105
       },
       "valuationStatus": "簡易評価",
       "upsidePercent": 0.15,
@@ -866,11 +866,11 @@
       "symbol": "7974",
       "name": "任天堂",
       "category": "sentiment",
-      "currentPrice": 9044.0,
-      "fairValue": 9496.2,
+      "currentPrice": 8821.0,
+      "fairValue": 9262.050000000001,
       "fairValueRange": {
-        "min": 8546.580000000002,
-        "max": 10445.820000000002
+        "min": 8335.845000000001,
+        "max": 10188.255000000003
       },
       "valuationStatus": "参考評価",
       "upsidePercent": 5.0,
@@ -887,11 +887,11 @@
       "symbol": "6861",
       "name": "キーエンス",
       "category": "sentiment",
-      "currentPrice": 83660.0,
-      "fairValue": 87843.0,
+      "currentPrice": 78020.0,
+      "fairValue": 81921.0,
       "fairValueRange": {
-        "min": 79058.7,
-        "max": 96627.3
+        "min": 73728.90000000001,
+        "max": 90113.1
       },
       "valuationStatus": "参考評価",
       "upsidePercent": 5.0,
@@ -908,11 +908,11 @@
       "symbol": "6758",
       "name": "ソニーグループ",
       "category": "sentiment",
-      "currentPrice": 4016.0,
-      "fairValue": 4018.6425277992003,
+      "currentPrice": 3920.0,
+      "fairValue": 3922.579359804,
       "fairValueRange": {
-        "min": 3616.7782750192805,
-        "max": 4420.5067805791205
+        "min": 3530.3214238236,
+        "max": 4314.8372957844
       },
       "valuationStatus": "簡易評価",
       "upsidePercent": 0.07,
@@ -929,11 +929,11 @@
       "symbol": "6954",
       "name": "ファナック",
       "category": "sentiment",
-      "currentPrice": 6055.0,
-      "fairValue": 6058.04233475,
+      "currentPrice": 5725.0,
+      "fairValue": 5727.876526249999,
       "fairValueRange": {
-        "min": 5452.238101275,
-        "max": 6663.846568225001
+        "min": 5155.088873624999,
+        "max": 6300.664178874999
       },
       "valuationStatus": "簡易評価",
       "upsidePercent": 0.05,
@@ -950,11 +950,11 @@
       "symbol": "9984",
       "name": "ソフトバンクグループ",
       "category": "sentiment",
-      "currentPrice": 5200.0,
-      "fairValue": 5208.310640000001,
+      "currentPrice": 4924.0,
+      "fairValue": 4931.869536800001,
       "fairValueRange": {
-        "min": 4687.479576000001,
-        "max": 5729.1417040000015
+        "min": 4438.682583120001,
+        "max": 5425.056490480001
       },
       "valuationStatus": "簡易評価",
       "upsidePercent": 0.16,
@@ -971,11 +971,11 @@
       "symbol": "9432",
       "name": "NTTドコモ",
       "category": "sentiment",
-      "currentPrice": 172.5,
-      "fairValue": 172.592399630175,
+      "currentPrice": 175.2,
+      "fairValue": 175.293845885256,
       "fairValueRange": {
-        "min": 155.3331596671575,
-        "max": 189.85163959319252
+        "min": 157.7644612967304,
+        "max": 192.8232304737816
       },
       "valuationStatus": "簡易評価",
       "upsidePercent": 0.05,
@@ -992,11 +992,11 @@
       "symbol": "6501",
       "name": "日立製作所",
       "category": "sentiment",
-      "currentPrice": 5438.0,
-      "fairValue": 5709.900000000001,
+      "currentPrice": 5335.0,
+      "fairValue": 5601.75,
       "fairValueRange": {
-        "min": 5138.910000000001,
-        "max": 6280.890000000001
+        "min": 5041.575,
+        "max": 6161.925
       },
       "valuationStatus": "参考評価",
       "upsidePercent": 5.0,
@@ -1013,11 +1013,11 @@
       "symbol": "8306",
       "name": "三菱UFJフィナンシャル・グループ",
       "category": "sentiment",
-      "currentPrice": 3680.0,
-      "fairValue": 3681.740455816,
+      "currentPrice": 3684.0,
+      "fairValue": 3685.7423476158,
       "fairValueRange": {
-        "min": 3313.5664102344003,
-        "max": 4049.9145013976004
+        "min": 3317.16811285422,
+        "max": 4054.3165823773807
       },
       "valuationStatus": "簡易評価",
       "upsidePercent": 0.05,
@@ -1034,11 +1034,11 @@
       "symbol": "4519",
       "name": "中外製薬",
       "category": "sentiment",
-      "currentPrice": 6913.0,
-      "fairValue": 6921.120355450001,
+      "currentPrice": 6832.0,
+      "fairValue": 6840.025208800001,
       "fairValueRange": {
-        "min": 6229.0083199050005,
-        "max": 7613.232390995001
+        "min": 6156.022687920001,
+        "max": 7524.027729680001
       },
       "valuationStatus": "簡易評価",
       "upsidePercent": 0.12,
