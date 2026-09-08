@@ -1,5 +1,259 @@
 {
-  "generated_at": "2026-09-04T11:44:12",
-  "jquants_api_available": true,
-  "items": []
+  "generated_at": "2026-09-08T12:36:48",
+  "financial_data_source": "/workspaces/ai-stock-scout/data/db/financial.db",
+  "items": [
+    {
+      "rank": 1,
+      "code": "7267",
+      "company_name": "本田技研工業",
+      "market": "プライム（内国株式）",
+      "sector": "輸送用機器",
+      "current_price": 1695.0,
+      "target_price": 1737.59,
+      "price_difference": 42.59,
+      "discount_rate_percent": 2.51
+    },
+    {
+      "rank": 2,
+      "code": "8591",
+      "company_name": "オリックス",
+      "market": "プライム（内国株式）",
+      "sector": "その他金融業",
+      "current_price": 6201.0,
+      "target_price": 4050.52,
+      "price_difference": -2150.48,
+      "discount_rate_percent": -34.68
+    },
+    {
+      "rank": 3,
+      "code": "7203",
+      "company_name": "トヨタ自動車",
+      "market": "プライム（内国株式）",
+      "sector": "輸送用機器",
+      "current_price": 3096.0,
+      "target_price": 1870.97,
+      "price_difference": -1225.03,
+      "discount_rate_percent": -39.57
+    },
+    {
+      "rank": 4,
+      "code": "8604",
+      "company_name": "野村ホールディングス",
+      "market": "プライム（内国株式）",
+      "sector": "証券、商品先物取引業",
+      "current_price": 1656.0,
+      "target_price": 747.08,
+      "price_difference": -908.92,
+      "discount_rate_percent": -54.89
+    },
+    {
+      "rank": 5,
+      "code": "8309",
+      "company_name": "三井住友トラストグループ",
+      "market": "プライム（内国株式）",
+      "sector": "銀行業",
+      "current_price": 1782.0,
+      "target_price": 774.65,
+      "price_difference": -1007.35,
+      "discount_rate_percent": -56.53
+    },
+    {
+      "rank": 6,
+      "code": "1928",
+      "company_name": "積水ハウス",
+      "market": "プライム（内国株式）",
+      "sector": "建設業",
+      "current_price": 3340.0,
+      "target_price": 1353.18,
+      "price_difference": -1986.82,
+      "discount_rate_percent": -59.49
+    },
+    {
+      "rank": 7,
+      "code": "8923",
+      "company_name": "トーセイ",
+      "market": "プライム（内国株式）",
+      "sector": "不動産業",
+      "current_price": 1725.0,
+      "target_price": 560.49,
+      "price_difference": -1164.51,
+      "discount_rate_percent": -67.51
+    },
+    {
+      "rank": 8,
+      "code": "8411",
+      "company_name": "みずほフィナンシャルグループ",
+      "market": "プライム（内国株式）",
+      "sector": "銀行業",
+      "current_price": 8710.0,
+      "target_price": 2610.88,
+      "price_difference": -6099.12,
+      "discount_rate_percent": -70.02
+    },
+    {
+      "rank": 9,
+      "code": "8306",
+      "company_name": "三菱ＵＦＪフィナンシャル・グループ",
+      "market": "プライム（内国株式）",
+      "sector": "銀行業",
+      "current_price": 3711.0,
+      "target_price": 1078.68,
+      "price_difference": -2632.32,
+      "discount_rate_percent": -70.93
+    },
+    {
+      "rank": 10,
+      "code": "8316",
+      "company_name": "三井住友フィナンシャルグループ",
+      "market": "プライム（内国株式）",
+      "sector": "銀行業",
+      "current_price": 6976.0,
+      "target_price": 1979.36,
+      "price_difference": -4996.64,
+      "discount_rate_percent": -71.63
+    },
+    {
+      "rank": 11,
+      "code": "6758",
+      "company_name": "ソニーグループ",
+      "market": "プライム（内国株式）",
+      "sector": "電気機器",
+      "current_price": 3780.0,
+      "target_price": 878.51,
+      "price_difference": -2901.49,
+      "discount_rate_percent": -76.76
+    },
+    {
+      "rank": 12,
+      "code": "8331",
+      "company_name": "千葉銀行",
+      "market": "プライム（内国株式）",
+      "sector": "銀行業",
+      "current_price": 2815.5,
+      "target_price": 648.92,
+      "price_difference": -2166.58,
+      "discount_rate_percent": -76.95
+    },
+    {
+      "rank": 13,
+      "code": "7912",
+      "company_name": "大日本印刷",
+      "market": "プライム（内国株式）",
+      "sector": "その他製品",
+      "current_price": 3096.0,
+      "target_price": 648.26,
+      "price_difference": -2447.74,
+      "discount_rate_percent": -79.06
+    },
+    {
+      "rank": 14,
+      "code": "8113",
+      "company_name": "ユニ・チャーム",
+      "market": "プライム（内国株式）",
+      "sector": "化学",
+      "current_price": 964.3,
+      "target_price": 185.43,
+      "price_difference": -778.87,
+      "discount_rate_percent": -80.77
+    },
+    {
+      "rank": 15,
+      "code": "3659",
+      "company_name": "ネクソン",
+      "market": "プライム（内国株式）",
+      "sector": "情報・通信業",
+      "current_price": 3051.0,
+      "target_price": 570.8,
+      "price_difference": -2480.2,
+      "discount_rate_percent": -81.29
+    },
+    {
+      "rank": 16,
+      "code": "4502",
+      "company_name": "武田薬品工業",
+      "market": "プライム（内国株式）",
+      "sector": "医薬品",
+      "current_price": 5777.0,
+      "target_price": 1063.38,
+      "price_difference": -4713.62,
+      "discount_rate_percent": -81.59
+    },
+    {
+      "rank": 17,
+      "code": "9766",
+      "company_name": "コナミグループ",
+      "market": "プライム（内国株式）",
+      "sector": "情報・通信業",
+      "current_price": 20775.0,
+      "target_price": 3604.48,
+      "price_difference": -17170.52,
+      "discount_rate_percent": -82.65
+    },
+    {
+      "rank": 18,
+      "code": "3774",
+      "company_name": "インターネットイニシアティブ",
+      "market": "プライム（内国株式）",
+      "sector": "情報・通信業",
+      "current_price": 3217.0,
+      "target_price": 371.76,
+      "price_difference": -2845.24,
+      "discount_rate_percent": -88.44
+    },
+    {
+      "rank": 19,
+      "code": "5344",
+      "company_name": "ＭＡＲＵＷＡ",
+      "market": "プライム（内国株式）",
+      "sector": "ガラス・土石製品",
+      "current_price": 58470.0,
+      "target_price": 5428.75,
+      "price_difference": -53041.25,
+      "discount_rate_percent": -90.72
+    },
+    {
+      "rank": 20,
+      "code": "6981",
+      "company_name": "村田製作所",
+      "market": "プライム（内国株式）",
+      "sector": "電気機器",
+      "current_price": 7620.0,
+      "target_price": 681.19,
+      "price_difference": -6938.81,
+      "discount_rate_percent": -91.06
+    },
+    {
+      "rank": 21,
+      "code": "6963",
+      "company_name": "ローム",
+      "market": "プライム（内国株式）",
+      "sector": "電気機器",
+      "current_price": 5243.0,
+      "target_price": 349.94,
+      "price_difference": -4893.06,
+      "discount_rate_percent": -93.33
+    },
+    {
+      "rank": 22,
+      "code": "1773",
+      "company_name": "ワイ・ティー・エル・コーポレーション・バーハッド",
+      "market": "プライム（外国株式）",
+      "sector": "建設業",
+      "current_price": 90.0,
+      "target_price": 0.42,
+      "price_difference": -89.58,
+      "discount_rate_percent": -99.53
+    },
+    {
+      "rank": 23,
+      "code": "9257",
+      "company_name": "ＹＣＰホールディングス（グローバル）リミテッド　ＪＤＲ",
+      "market": "グロース（外国株式）",
+      "sector": "サービス業",
+      "current_price": 522.0,
+      "target_price": 1.66,
+      "price_difference": -520.34,
+      "discount_rate_percent": -99.68
+    }
+  ]
 }
