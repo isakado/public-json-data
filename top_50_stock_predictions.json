@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-15T12:04:18",
+  "generated_at": "2026-09-15T13:39:07",
   "items": [
     {
       "code": "381A",
       "company_name": "ｉＦｒｅｅＥＴＦ　米国国債３－５年（為替ヘッジなし）",
       "current_price": 2084.0,
-      "predicted_price": 2105.89,
-      "up_probability": 96.53,
-      "down_probability": 3.47,
+      "predicted_price": 2104.14,
+      "up_probability": 96.59,
+      "down_probability": 3.41,
       "prediction_accuracy": 45.83
     },
     {
@@ -117,6 +117,15 @@
       "up_probability": 94.2,
       "down_probability": 5.8,
       "prediction_accuracy": 46.12
+    },
+    {
+      "code": "395A",
+      "company_name": "業界改革厳選ＥＴＦ地銀",
+      "current_price": 1080.0,
+      "predicted_price": 1135.45,
+      "up_probability": 94.03,
+      "down_probability": 5.97,
+      "prediction_accuracy": 66.67
     },
     {
       "code": "2653",
@@ -252,15 +261,6 @@
       "up_probability": 93.17,
       "down_probability": 6.83,
       "prediction_accuracy": 43.81
-    },
-    {
-      "code": "2637",
-      "company_name": "グローバルＸ　クリーンテック－日本株式　ＥＴＦ",
-      "current_price": 2540.0,
-      "predicted_price": 2609.97,
-      "up_probability": 93.14,
-      "down_probability": 6.86,
-      "prediction_accuracy": 42.24
     },
     {
       "code": "3148",
