@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T13:20:17",
+  "generated_at": "2026-09-21T15:39:01",
   "items": [
     {
       "code": "348A",
@@ -236,15 +236,6 @@
       "prediction_accuracy": 53.02
     },
     {
-      "code": "539A",
-      "company_name": "ＮＺＡＭ　上場投信　海外債券（ＦＴＳＥ　ＷＧＢＩ除く日本）（為替ヘッジなし）",
-      "current_price": 4784.0,
-      "predicted_price": 4794.76,
-      "up_probability": 91.9,
-      "down_probability": 8.1,
-      "prediction_accuracy": 61.54
-    },
-    {
       "code": "4204",
       "company_name": "積水化学工業",
       "current_price": 2496.5,
@@ -308,6 +299,24 @@
       "prediction_accuracy": 47.84
     },
     {
+      "code": "2071",
+      "company_name": "スマートＥＳＧ３０総合（ネットリターン）ＥＴＮ",
+      "current_price": 19665.0,
+      "predicted_price": 19969.74,
+      "up_probability": 91.1,
+      "down_probability": 8.9,
+      "prediction_accuracy": 56.31
+    },
+    {
+      "code": "539A",
+      "company_name": "ＮＺＡＭ　上場投信　海外債券（ＦＴＳＥ　ＷＧＢＩ除く日本）（為替ヘッジなし）",
+      "current_price": 4784.0,
+      "predicted_price": 4794.97,
+      "up_probability": 91.06,
+      "down_probability": 8.94,
+      "prediction_accuracy": 38.46
+    },
+    {
       "code": "9632",
       "company_name": "スバル興業",
       "current_price": 3525.0,
@@ -342,15 +351,6 @@
       "up_probability": 90.85,
       "down_probability": 9.15,
       "prediction_accuracy": 48.71
-    },
-    {
-      "code": "2072",
-      "company_name": "トップシェアインデックス（ネットリターン）ＥＴＮ",
-      "current_price": 21695.0,
-      "predicted_price": 21905.62,
-      "up_probability": 90.7,
-      "down_probability": 9.3,
-      "prediction_accuracy": 49.72
     },
     {
       "code": "8142",
