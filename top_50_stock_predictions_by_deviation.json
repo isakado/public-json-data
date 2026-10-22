@@ -1,68 +1,131 @@
 {
-  "generated_at": "2026-10-21T14:18:44",
+  "generated_at": "2026-10-22T09:47:56",
   "items": [
     {
       "code": "9227",
       "company_name": "マイクロ波化学",
-      "current_price": 640.0,
-      "predicted_price": 717.74,
-      "up_probability": 95.32,
-      "down_probability": 4.68,
-      "prediction_accuracy": 45.23
+      "current_price": 631.0,
+      "predicted_price": 706.87,
+      "up_probability": 94.28,
+      "down_probability": 5.72,
+      "prediction_accuracy": 46.73
     },
     {
-      "code": "6376",
-      "company_name": "日機装",
-      "current_price": 3225.0,
-      "predicted_price": 3503.86,
-      "up_probability": 93.55,
-      "down_probability": 6.45,
-      "prediction_accuracy": 55.6
+      "code": "6269",
+      "company_name": "三井海洋開発",
+      "current_price": 7858.0,
+      "predicted_price": 8725.37,
+      "up_probability": 92.84,
+      "down_probability": 7.16,
+      "prediction_accuracy": 44.83
+    },
+    {
+      "code": "5631",
+      "company_name": "日本製鋼所",
+      "current_price": 6251.0,
+      "predicted_price": 6887.59,
+      "up_probability": 95.6,
+      "down_probability": 4.4,
+      "prediction_accuracy": 54.31
+    },
+    {
+      "code": "6524",
+      "company_name": "湖北工業",
+      "current_price": 4615.0,
+      "predicted_price": 4994.74,
+      "up_probability": 94.2,
+      "down_probability": 5.8,
+      "prediction_accuracy": 49.11
+    },
+    {
+      "code": "6480",
+      "company_name": "日本トムソン",
+      "current_price": 1481.0,
+      "predicted_price": 1586.19,
+      "up_probability": 93.06,
+      "down_probability": 6.94,
+      "prediction_accuracy": 54.74
     },
     {
       "code": "4022",
       "company_name": "ラサ工業",
-      "current_price": 1700.0,
-      "predicted_price": 1831.4,
-      "up_probability": 93.47,
-      "down_probability": 6.53,
+      "current_price": 1610.0,
+      "predicted_price": 1722.52,
+      "up_probability": 93.92,
+      "down_probability": 6.08,
+      "prediction_accuracy": 50.43
+    },
+    {
+      "code": "5033",
+      "company_name": "ヌーラボ",
+      "current_price": 1263.0,
+      "predicted_price": 1350.83,
+      "up_probability": 92.82,
+      "down_probability": 7.18,
+      "prediction_accuracy": 45.23
+    },
+    {
+      "code": "8366",
+      "company_name": "滋賀銀行",
+      "current_price": 2573.0,
+      "predicted_price": 2746.47,
+      "up_probability": 94.08,
+      "down_probability": 5.92,
+      "prediction_accuracy": 56.03
+    },
+    {
+      "code": "4462",
+      "company_name": "石原ケミカル",
+      "current_price": 2801.0,
+      "predicted_price": 2986.87,
+      "up_probability": 95.65,
+      "down_probability": 4.35,
+      "prediction_accuracy": 43.1
+    },
+    {
+      "code": "7995",
+      "company_name": "バルカー",
+      "current_price": 6340.0,
+      "predicted_price": 6753.43,
+      "up_probability": 93.15,
+      "down_probability": 6.85,
       "prediction_accuracy": 49.57
     },
     {
-      "code": "8343",
-      "company_name": "秋田銀行",
-      "current_price": 1483.0,
-      "predicted_price": 1593.66,
-      "up_probability": 92.85,
-      "down_probability": 7.15,
-      "prediction_accuracy": 49.57
+      "code": "1801",
+      "company_name": "大成建設",
+      "current_price": 11170.0,
+      "predicted_price": 11892.88,
+      "up_probability": 96.22,
+      "down_probability": 3.78,
+      "prediction_accuracy": 43.97
     },
     {
-      "code": "6632",
-      "company_name": "ＪＶＣケンウッド",
-      "current_price": 962.5,
-      "predicted_price": 1030.95,
-      "up_probability": 94.94,
-      "down_probability": 5.06,
-      "prediction_accuracy": 55.6
+      "code": "5333",
+      "company_name": "ＮＧＫ",
+      "current_price": 4703.0,
+      "predicted_price": 4981.78,
+      "up_probability": 94.48,
+      "down_probability": 5.52,
+      "prediction_accuracy": 59.05
     },
     {
       "code": "4275",
       "company_name": "カーリット",
-      "current_price": 1734.0,
-      "predicted_price": 1853.2,
-      "up_probability": 95.29,
-      "down_probability": 4.71,
-      "prediction_accuracy": 49.57
+      "current_price": 1706.0,
+      "predicted_price": 1804.36,
+      "up_probability": 94.01,
+      "down_probability": 5.99,
+      "prediction_accuracy": 46.55
     },
     {
-      "code": "2628",
-      "company_name": "ｉＦｒｅｅＥＴＦ　中国科創板５０（ＳＴＡＲ５０）",
-      "current_price": 2989.0,
-      "predicted_price": 3193.81,
-      "up_probability": 93.08,
-      "down_probability": 6.92,
-      "prediction_accuracy": 42.24
+      "code": "4047",
+      "company_name": "関東電化工業",
+      "current_price": 1943.0,
+      "predicted_price": 2052.8,
+      "up_probability": 93.2,
+      "down_probability": 6.8,
+      "prediction_accuracy": 47.41
     },
     {
       "code": "2067",
@@ -74,382 +137,319 @@
       "prediction_accuracy": 48.65
     },
     {
-      "code": "8747",
-      "company_name": "豊トラスティ証券",
-      "current_price": 2012.0,
-      "predicted_price": 2117.97,
-      "up_probability": 95.42,
-      "down_probability": 4.58,
-      "prediction_accuracy": 45.69
-    },
-    {
-      "code": "4047",
-      "company_name": "関東電化工業",
-      "current_price": 2085.0,
-      "predicted_price": 2193.72,
-      "up_probability": 93.17,
-      "down_probability": 6.83,
-      "prediction_accuracy": 48.71
-    },
-    {
-      "code": "1801",
-      "company_name": "大成建設",
-      "current_price": 11430.0,
-      "predicted_price": 12009.62,
-      "up_probability": 95.22,
-      "down_probability": 4.78,
-      "prediction_accuracy": 41.38
+      "code": "6101",
+      "company_name": "ツガミ",
+      "current_price": 4435.0,
+      "predicted_price": 4666.59,
+      "up_probability": 94.47,
+      "down_probability": 5.53,
+      "prediction_accuracy": 44.83
     },
     {
       "code": "2805",
       "company_name": "ヱスビー食品",
-      "current_price": 6110.0,
-      "predicted_price": 6406.22,
-      "up_probability": 95.92,
-      "down_probability": 4.08,
-      "prediction_accuracy": 47.84
-    },
-    {
-      "code": "3723",
-      "company_name": "日本ファルコム",
-      "current_price": 2363.0,
-      "predicted_price": 2464.34,
-      "up_probability": 96.36,
-      "down_probability": 3.64,
-      "prediction_accuracy": 50.43
-    },
-    {
-      "code": "3449",
-      "company_name": "テクノフレックス",
-      "current_price": 3775.0,
-      "predicted_price": 3912.9,
-      "up_probability": 94.1,
-      "down_probability": 5.9,
-      "prediction_accuracy": 54.74
-    },
-    {
-      "code": "5126",
-      "company_name": "ポーターズ",
-      "current_price": 1261.0,
-      "predicted_price": 1305.44,
-      "up_probability": 95.13,
-      "down_probability": 4.87,
-      "prediction_accuracy": 55.25
-    },
-    {
-      "code": "404A",
-      "company_name": "グローバルＸ　チャイナテック・トップ１０　ＥＴＦ",
-      "current_price": 1040.0,
-      "predicted_price": 1076.64,
-      "up_probability": 92.58,
-      "down_probability": 7.42,
-      "prediction_accuracy": 31.11
-    },
-    {
-      "code": "6905",
-      "company_name": "コーセル",
-      "current_price": 1340.0,
-      "predicted_price": 1385.13,
-      "up_probability": 95.88,
-      "down_probability": 4.12,
-      "prediction_accuracy": 47.84
-    },
-    {
-      "code": "1476",
-      "company_name": "ｉシェアーズ・コア　Ｊリート　ＥＴＦ",
-      "current_price": 1718.0,
-      "predicted_price": 1775.54,
-      "up_probability": 94.01,
-      "down_probability": 5.99,
-      "prediction_accuracy": 50.43
-    },
-    {
-      "code": "8366",
-      "company_name": "滋賀銀行",
-      "current_price": 2694.0,
-      "predicted_price": 2782.53,
-      "up_probability": 94.08,
-      "down_probability": 5.92,
-      "prediction_accuracy": 58.62
-    },
-    {
-      "code": "5331",
-      "company_name": "ノリタケ",
-      "current_price": 3345.0,
-      "predicted_price": 3454.41,
-      "up_probability": 94.43,
-      "down_probability": 5.57,
-      "prediction_accuracy": 43.1
-    },
-    {
-      "code": "4023",
-      "company_name": "クレハ",
-      "current_price": 3880.0,
-      "predicted_price": 3993.41,
-      "up_probability": 94.23,
-      "down_probability": 5.77,
-      "prediction_accuracy": 40.09
+      "current_price": 6020.0,
+      "predicted_price": 6319.05,
+      "up_probability": 97.04,
+      "down_probability": 2.96,
+      "prediction_accuracy": 49.57
     },
     {
       "code": "4973",
       "company_name": "日本高純度化学",
-      "current_price": 4455.0,
-      "predicted_price": 4582.91,
-      "up_probability": 92.62,
-      "down_probability": 7.38,
+      "current_price": 4260.0,
+      "predicted_price": 4466.07,
+      "up_probability": 95.06,
+      "down_probability": 4.94,
       "prediction_accuracy": 50.0
     },
     {
-      "code": "1333",
-      "company_name": "Ｕｍｉｏｓ",
-      "current_price": 1203.5,
-      "predicted_price": 1236.82,
-      "up_probability": 94.95,
-      "down_probability": 5.05,
-      "prediction_accuracy": 52.16
+      "code": "1515",
+      "company_name": "日鉄鉱業",
+      "current_price": 2703.0,
+      "predicted_price": 2823.3,
+      "up_probability": 93.85,
+      "down_probability": 6.15,
+      "prediction_accuracy": 45.69
     },
     {
-      "code": "8065",
-      "company_name": "佐藤商事",
-      "current_price": 2814.0,
-      "predicted_price": 2890.8,
-      "up_probability": 93.48,
-      "down_probability": 6.52,
-      "prediction_accuracy": 48.28
+      "code": "3452",
+      "company_name": "ビーロット",
+      "current_price": 1395.0,
+      "predicted_price": 1456.04,
+      "up_probability": 93.22,
+      "down_probability": 6.78,
+      "prediction_accuracy": 45.26
     },
     {
-      "code": "395A",
-      "company_name": "業界改革厳選ＥＴＦ地銀",
-      "current_price": 1001.5,
-      "predicted_price": 1026.77,
-      "up_probability": 94.05,
-      "down_probability": 5.95,
-      "prediction_accuracy": 53.06
+      "code": "5542",
+      "company_name": "新報国マテリアル",
+      "current_price": 1132.0,
+      "predicted_price": 1179.35,
+      "up_probability": 93.12,
+      "down_probability": 6.88,
+      "prediction_accuracy": 62.07
     },
     {
-      "code": "1343",
-      "company_name": "ＮＥＸＴ　ＦＵＮＤＳ　東証ＲＥＩＴ　指数連動型上場投信",
-      "current_price": 1792.5,
-      "predicted_price": 1837.19,
-      "up_probability": 95.32,
-      "down_probability": 4.68,
-      "prediction_accuracy": 43.1
+      "code": "3723",
+      "company_name": "日本ファルコム",
+      "current_price": 2311.0,
+      "predicted_price": 2402.44,
+      "up_probability": 96.0,
+      "down_probability": 4.0,
+      "prediction_accuracy": 49.14
     },
     {
-      "code": "8364",
-      "company_name": "清水銀行",
-      "current_price": 2810.0,
-      "predicted_price": 2878.47,
-      "up_probability": 92.91,
-      "down_probability": 7.09,
-      "prediction_accuracy": 53.88
+      "code": "3444",
+      "company_name": "菊池製作所",
+      "current_price": 886.0,
+      "predicted_price": 920.49,
+      "up_probability": 93.63,
+      "down_probability": 6.37,
+      "prediction_accuracy": 53.02
+    },
+    {
+      "code": "404A",
+      "company_name": "グローバルＸ　チャイナテック・トップ１０　ＥＴＦ",
+      "current_price": 975.0,
+      "predicted_price": 1011.65,
+      "up_probability": 92.96,
+      "down_probability": 7.04,
+      "prediction_accuracy": 28.89
+    },
+    {
+      "code": "3449",
+      "company_name": "テクノフレックス",
+      "current_price": 3520.0,
+      "predicted_price": 3650.74,
+      "up_probability": 96.44,
+      "down_probability": 3.56,
+      "prediction_accuracy": 52.59
     },
     {
       "code": "6643",
       "company_name": "戸上電機製作所",
-      "current_price": 5270.0,
-      "predicted_price": 5391.09,
-      "up_probability": 92.62,
-      "down_probability": 7.38,
-      "prediction_accuracy": 50.86
+      "current_price": 5140.0,
+      "predicted_price": 5325.04,
+      "up_probability": 94.85,
+      "down_probability": 5.15,
+      "prediction_accuracy": 50.43
     },
     {
-      "code": "5939",
-      "company_name": "大谷工業",
-      "current_price": 4480.0,
-      "predicted_price": 4575.5,
-      "up_probability": 92.2,
-      "down_probability": 7.8,
-      "prediction_accuracy": 44.3
+      "code": "5331",
+      "company_name": "ノリタケ",
+      "current_price": 3220.0,
+      "predicted_price": 3333.91,
+      "up_probability": 95.06,
+      "down_probability": 4.94,
+      "prediction_accuracy": 46.55
     },
     {
-      "code": "8975",
-      "company_name": "いちごオフィスリート投資法人",
-      "current_price": 88100.0,
-      "predicted_price": 89975.1,
-      "up_probability": 94.68,
-      "down_probability": 5.32,
-      "prediction_accuracy": 48.28
+      "code": "6838",
+      "company_name": "多摩川ホールディングス",
+      "current_price": 1148.0,
+      "predicted_price": 1187.92,
+      "up_probability": 93.92,
+      "down_probability": 6.08,
+      "prediction_accuracy": 45.69
     },
     {
-      "code": "9686",
-      "company_name": "東洋テック",
-      "current_price": 1613.0,
-      "predicted_price": 1647.22,
-      "up_probability": 92.98,
-      "down_probability": 7.02,
-      "prediction_accuracy": 48.28
+      "code": "1871",
+      "company_name": "ピーエス・コンストラクション",
+      "current_price": 2067.0,
+      "predicted_price": 2135.91,
+      "up_probability": 93.92,
+      "down_probability": 6.08,
+      "prediction_accuracy": 44.4
+    },
+    {
+      "code": "8065",
+      "company_name": "佐藤商事",
+      "current_price": 2762.0,
+      "predicted_price": 2848.45,
+      "up_probability": 93.4,
+      "down_probability": 6.6,
+      "prediction_accuracy": 46.98
+    },
+    {
+      "code": "8370",
+      "company_name": "紀陽銀行",
+      "current_price": 1552.0,
+      "predicted_price": 1600.49,
+      "up_probability": 96.39,
+      "down_probability": 3.61,
+      "prediction_accuracy": 49.14
+    },
+    {
+      "code": "395A",
+      "company_name": "業界改革厳選ＥＴＦ地銀",
+      "current_price": 966.1,
+      "predicted_price": 994.48,
+      "up_probability": 95.28,
+      "down_probability": 4.72,
+      "prediction_accuracy": 53.06
     },
     {
       "code": "8267",
       "company_name": "イオン",
-      "current_price": 1134.0,
-      "predicted_price": 1156.75,
-      "up_probability": 94.23,
-      "down_probability": 5.77,
-      "prediction_accuracy": 40.09
+      "current_price": 1130.0,
+      "predicted_price": 1161.4,
+      "up_probability": 94.89,
+      "down_probability": 5.11,
+      "prediction_accuracy": 41.38
     },
     {
-      "code": "5831",
-      "company_name": "しずおかフィナンシャルグループ",
-      "current_price": 3076.0,
-      "predicted_price": 3135.47,
-      "up_probability": 93.11,
-      "down_probability": 6.89,
-      "prediction_accuracy": 55.91
-    },
-    {
-      "code": "5991",
-      "company_name": "日本発條",
-      "current_price": 3322.0,
-      "predicted_price": 3380.71,
-      "up_probability": 92.31,
-      "down_probability": 7.69,
-      "prediction_accuracy": 58.19
-    },
-    {
-      "code": "5821",
-      "company_name": "平河ヒューテック",
-      "current_price": 3095.0,
-      "predicted_price": 3148.72,
-      "up_probability": 93.21,
-      "down_probability": 6.79,
-      "prediction_accuracy": 50.86
-    },
-    {
-      "code": "4042",
-      "company_name": "東ソー",
-      "current_price": 2582.5,
-      "predicted_price": 2627.21,
-      "up_probability": 92.75,
-      "down_probability": 7.25,
-      "prediction_accuracy": 47.41
+      "code": "8747",
+      "company_name": "豊トラスティ証券",
+      "current_price": 2032.0,
+      "predicted_price": 2085.98,
+      "up_probability": 96.62,
+      "down_probability": 3.38,
+      "prediction_accuracy": 44.4
     },
     {
       "code": "6380",
       "company_name": "オリエンタルチエン工業",
-      "current_price": 3480.0,
-      "predicted_price": 3538.92,
-      "up_probability": 92.83,
-      "down_probability": 7.17,
-      "prediction_accuracy": 45.05
+      "current_price": 3440.0,
+      "predicted_price": 3529.11,
+      "up_probability": 95.8,
+      "down_probability": 4.2,
+      "prediction_accuracy": 43.69
     },
     {
-      "code": "6535",
-      "company_name": "アイモバイル",
-      "current_price": 495.0,
-      "predicted_price": 502.85,
-      "up_probability": 94.5,
-      "down_probability": 5.5,
-      "prediction_accuracy": 53.45
+      "code": "1333",
+      "company_name": "Ｕｍｉｏｓ",
+      "current_price": 1208.0,
+      "predicted_price": 1237.93,
+      "up_probability": 94.08,
+      "down_probability": 5.92,
+      "prediction_accuracy": 51.29
     },
     {
-      "code": "2325",
-      "company_name": "ＮＪＳ",
-      "current_price": 4375.0,
-      "predicted_price": 4441.37,
-      "up_probability": 92.39,
-      "down_probability": 7.61,
-      "prediction_accuracy": 50.86
+      "code": "8897",
+      "company_name": "ＭＩＲＡＲＴＨホールディングス",
+      "current_price": 417.0,
+      "predicted_price": 426.34,
+      "up_probability": 92.71,
+      "down_probability": 7.29,
+      "prediction_accuracy": 46.98
     },
     {
-      "code": "8570",
-      "company_name": "イオンフィナンシャルサービス",
-      "current_price": 1423.0,
-      "predicted_price": 1444.21,
-      "up_probability": 92.08,
-      "down_probability": 7.92,
-      "prediction_accuracy": 55.17
+      "code": "4082",
+      "company_name": "第一稀元素化学工業",
+      "current_price": 1750.0,
+      "predicted_price": 1787.13,
+      "up_probability": 93.79,
+      "down_probability": 6.21,
+      "prediction_accuracy": 41.81
+    },
+    {
+      "code": "8975",
+      "company_name": "いちごオフィスリート投資法人",
+      "current_price": 87300.0,
+      "predicted_price": 89079.01,
+      "up_probability": 95.46,
+      "down_probability": 4.54,
+      "prediction_accuracy": 52.16
+    },
+    {
+      "code": "9686",
+      "company_name": "東洋テック",
+      "current_price": 1608.0,
+      "predicted_price": 1639.49,
+      "up_probability": 92.79,
+      "down_probability": 7.21,
+      "prediction_accuracy": 50.0
+    },
+    {
+      "code": "2700",
+      "company_name": "木徳神糧",
+      "current_price": 1720.0,
+      "predicted_price": 1747.6,
+      "up_probability": 94.11,
+      "down_probability": 5.89,
+      "prediction_accuracy": 44.83
+    },
+    {
+      "code": "6393",
+      "company_name": "油研工業",
+      "current_price": 2938.0,
+      "predicted_price": 2984.27,
+      "up_probability": 93.81,
+      "down_probability": 6.19,
+      "prediction_accuracy": 50.0
     },
     {
       "code": "3282",
       "company_name": "コンフォリア・レジデンシャル投資法人",
-      "current_price": 88500.0,
-      "predicted_price": 89801.19,
-      "up_probability": 96.24,
-      "down_probability": 3.76,
+      "current_price": 88400.0,
+      "predicted_price": 89745.91,
+      "up_probability": 95.13,
+      "down_probability": 4.87,
+      "prediction_accuracy": 43.1
+    },
+    {
+      "code": "1560",
+      "company_name": "ＮＥＸＴ　ＦＵＮＤＳ　ＦＴＳＥブルサ・マレーシアＫＬＣＩ連動型上場投信",
+      "current_price": 6020.0,
+      "predicted_price": 6110.65,
+      "up_probability": 94.84,
+      "down_probability": 5.16,
       "prediction_accuracy": 46.55
-    },
-    {
-      "code": "7314",
-      "company_name": "小田原機器",
-      "current_price": 1332.0,
-      "predicted_price": 1351.02,
-      "up_probability": 92.08,
-      "down_probability": 7.92,
-      "prediction_accuracy": 55.84
-    },
-    {
-      "code": "9215",
-      "company_name": "ＣａＳｙ",
-      "current_price": 970.0,
-      "predicted_price": 983.48,
-      "up_probability": 92.76,
-      "down_probability": 7.24,
-      "prediction_accuracy": 50.23
-    },
-    {
-      "code": "7555",
-      "company_name": "大田花き",
-      "current_price": 718.0,
-      "predicted_price": 727.37,
-      "up_probability": 93.64,
-      "down_probability": 6.36,
-      "prediction_accuracy": 59.74
-    },
-    {
-      "code": "9074",
-      "company_name": "日本石油輸送",
-      "current_price": 2292.0,
-      "predicted_price": 2321.68,
-      "up_probability": 93.29,
-      "down_probability": 6.71,
-      "prediction_accuracy": 46.12
     },
     {
       "code": "8960",
       "company_name": "ユナイテッド・アーバン投資法人",
-      "current_price": 150900.0,
-      "predicted_price": 152790.32,
-      "up_probability": 94.14,
-      "down_probability": 5.86,
-      "prediction_accuracy": 50.86
+      "current_price": 150800.0,
+      "predicted_price": 152584.88,
+      "up_probability": 92.92,
+      "down_probability": 7.08,
+      "prediction_accuracy": 53.02
     },
     {
-      "code": "7814",
-      "company_name": "日本創発グループ",
-      "current_price": 614.0,
-      "predicted_price": 620.66,
-      "up_probability": 95.34,
-      "down_probability": 4.66,
-      "prediction_accuracy": 50.43
+      "code": "1795",
+      "company_name": "マサル",
+      "current_price": 5500.0,
+      "predicted_price": 5552.7,
+      "up_probability": 95.53,
+      "down_probability": 4.47,
+      "prediction_accuracy": 60.18
     },
     {
       "code": "7208",
       "company_name": "カネミツ",
-      "current_price": 1183.0,
-      "predicted_price": 1193.86,
-      "up_probability": 93.55,
-      "down_probability": 6.45,
-      "prediction_accuracy": 46.55
+      "current_price": 1189.0,
+      "predicted_price": 1199.2,
+      "up_probability": 92.88,
+      "down_probability": 7.12,
+      "prediction_accuracy": 46.98
     },
     {
       "code": "3293",
       "company_name": "アズマハウス",
-      "current_price": 743.0,
-      "predicted_price": 748.81,
-      "up_probability": 93.55,
-      "down_probability": 6.45,
-      "prediction_accuracy": 50.43
+      "current_price": 740.0,
+      "predicted_price": 745.74,
+      "up_probability": 94.46,
+      "down_probability": 5.54,
+      "prediction_accuracy": 48.28
     },
     {
-      "code": "3248",
-      "company_name": "アールエイジ",
-      "current_price": 882.0,
-      "predicted_price": 886.78,
-      "up_probability": 93.67,
-      "down_probability": 6.33,
-      "prediction_accuracy": 46.12
+      "code": "3177",
+      "company_name": "ありがとうサービス",
+      "current_price": 4375.0,
+      "predicted_price": 4395.97,
+      "up_probability": 92.98,
+      "down_probability": 7.02,
+      "prediction_accuracy": 51.29
+    },
+    {
+      "code": "5821",
+      "company_name": "平河ヒューテック",
+      "current_price": 3065.0,
+      "predicted_price": 3078.62,
+      "up_probability": 93.45,
+      "down_probability": 6.55,
+      "prediction_accuracy": 49.57
     }
   ]
 }
