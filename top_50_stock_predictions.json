@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T09:47:56",
+  "generated_at": "2026-10-22T14:15:35",
   "items": [
     {
       "code": "2805",
@@ -380,6 +380,15 @@
       "prediction_accuracy": 54.74
     },
     {
+      "code": "1676",
+      "company_name": "ＷｉｓｄｏｍＴｒｅｅ　貴金属バスケット上場投資信託",
+      "current_price": 39000.0,
+      "predicted_price": 40582.04,
+      "up_probability": 93.04,
+      "down_probability": 6.96,
+      "prediction_accuracy": 49.52
+    },
+    {
       "code": "3177",
       "company_name": "ありがとうサービス",
       "current_price": 4375.0,
@@ -441,15 +450,6 @@
       "up_probability": 92.79,
       "down_probability": 7.21,
       "prediction_accuracy": 50.0
-    },
-    {
-      "code": "8897",
-      "company_name": "ＭＩＲＡＲＴＨホールディングス",
-      "current_price": 417.0,
-      "predicted_price": 426.34,
-      "up_probability": 92.71,
-      "down_probability": 7.29,
-      "prediction_accuracy": 46.98
     }
   ]
 }

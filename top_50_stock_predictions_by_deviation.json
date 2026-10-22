@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T09:47:56",
+  "generated_at": "2026-10-22T14:15:35",
   "items": [
     {
       "code": "9227",
@@ -191,6 +191,15 @@
       "prediction_accuracy": 62.07
     },
     {
+      "code": "1676",
+      "company_name": "ＷｉｓｄｏｍＴｒｅｅ　貴金属バスケット上場投資信託",
+      "current_price": 39000.0,
+      "predicted_price": 40582.04,
+      "up_probability": 93.04,
+      "down_probability": 6.96,
+      "prediction_accuracy": 49.52
+    },
+    {
       "code": "3723",
       "company_name": "日本ファルコム",
       "current_price": 2311.0,
@@ -324,15 +333,6 @@
       "up_probability": 94.08,
       "down_probability": 5.92,
       "prediction_accuracy": 51.29
-    },
-    {
-      "code": "8897",
-      "company_name": "ＭＩＲＡＲＴＨホールディングス",
-      "current_price": 417.0,
-      "predicted_price": 426.34,
-      "up_probability": 92.71,
-      "down_probability": 7.29,
-      "prediction_accuracy": 46.98
     },
     {
       "code": "4082",
