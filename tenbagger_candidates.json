@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "reportDate": "2026-10-25",
-  "updatedAt": "2026-10-25T08:00:00+09:00",
+  "reportDate": "2026-10-30",
+  "updatedAt": "2026-10-31T08:54:00+09:00",
   "selectionPolicy": {
     "market": "日本株",
     "researchFrequencyPerDay": 1,
@@ -15,223 +15,168 @@
   "candidates": [
     {
       "rank": 1,
-      "code": "5574",
-      "name": "ABEJA",
-      "currentPriceJPY": 2275,
-      "priceAsOf": "2026-10-23T15:30:00+09:00",
-      "marketCapJPY": 23244000000,
+      "code": "5248",
+      "name": "テクノロジーズ",
+      "currentPriceJPY": null,
+      "priceAsOf": null,
+      "marketCapJPY": null,
       "volume": {
         "averageDailyShares": null,
-        "periodStart": "2026-09-25",
-        "periodEnd": "2026-10-23",
-        "tradingDays": 20
+        "periodStart": null,
+        "periodEnd": null,
+        "tradingDays": null
       },
-      "per": 33.57,
-      "pbr": 4.03,
-      "valuationBasis": "2026年10月23日終値基準。PERは会社予想EPS、PBRは実績BPSに基づく二次情報の表示値。",
-      "latestFiscalPeriod": "2026年8月期 通期実績",
-      "revenueJPY": 4577000000,
-      "revenueGrowthPercent": 27.7,
-      "operatingIncomeJPY": 710000000,
-      "operatingIncomeGrowthPercent": 59.6,
-      "companyForecast": {
-        "fiscalPeriod": "2027年8月期 通期会社予想",
-        "revenueJPY": null,
-        "revenueGrowthPercent": null,
-        "operatingIncomeJPY": null,
-        "operatingIncomeGrowthPercent": null
-      },
-      "growthThesis": "ABEJA Platformを中核に、企業の基幹業務へのAI実装、AIエージェント、フィジカルAIを推進。2026年10月にはヤマザキマザックとの製造現場向け連携やENEOSのAIガバナンス支援が公表され、実運用案件の拡大が成長機会となる。2026年8月期は売上高45.77億円、営業利益7.10億円。AI導入需要と大企業向け案件の拡大を強気シナリオとするが、買値の5倍は極めて高い目標であり、達成可能性を保証しない。",
+      "per": null,
+      "pbr": null,
+      "valuationBasis": null,
+      "latestFiscalPeriod": "2027年1月期 第2四半期（2026年7月期）",
+      "revenueJPY": null,
+      "revenueGrowthPercent": null,
+      "operatingIncomeJPY": null,
+      "operatingIncomeGrowthPercent": null,
+      "companyForecast": null,
+      "growthThesis": "【取込テスト用】再エネソリューション等の事業展開を確認対象とする銘柄。投資仮説・成長性・業績見通しは未検証であり、投資候補として評価したものではない。",
       "catalysts": [
-        "製造業におけるフィジカルAI・AIエージェントの実証から商用導入への進展",
-        "大企業のAIガバナンス強化や基幹業務へのAI実装案件の増加",
-        "シンガポール子会社を起点とするASEAN展開の進展"
+        "【テスト用】2027年1月期の業績予想・事業再編に関する開示の確認"
       ],
       "risks": [
-        "会社予想の最新数値を今回の調査で確実に確認できていない",
-        "PER約33.6倍であり、成長期待が株価に織り込まれている可能性",
-        "大型案件の検収時期や顧客の投資計画による業績変動",
-        "競争激化、AI技術の急速な変化、海外展開に伴う費用増加",
-        "目標価格11000円は買値上限2200円の5倍という強気シナリオであり、企業価値の確定評価ではない"
+        "【テスト用】利益変動、事業再編、資金調達・希薄化、流動性の確認が必要",
+        "本レコードの売買価格・目標価格は実勢価格や合理的評価に基づかない"
       ],
-      "buyPriceMinJPY": 2000,
-      "buyPriceMaxJPY": 2200,
-      "targetPriceJPY": 11000,
-      "stopLossPriceJPY": 1800,
+      "buyPriceMinJPY": 450,
+      "buyPriceMaxJPY": 500,
+      "targetPriceJPY": 2500,
+      "stopLossPriceJPY": 350,
       "upsideMultiple": 5,
-      "priceRationale": "買い候補は2000〜2200円。2026年10月23日終値2275円を下回る押し目を想定し、追いかけ買いを避ける。目標価格11000円は買い上限2200円の5倍となるシナリオ値。12〜24か月で到達するには、AI関連案件の大幅な拡大と利益成長、評価倍率の維持または上昇が必要。損切り価格1800円は運用管理上の仮定。",
+      "priceRationale": "【取込テスト専用の仮値】買い上限500円に対し目標価格2,500円として計算式の検証用に5.0倍を設定。事業価値・業績・類似企業評価等による価格根拠はなく、目標価格シナリオとして使用してはならない。",
       "plannedShares": 100,
-      "estimatedInvestmentJPY": 220000,
+      "estimatedInvestmentJPY": 50000,
       "sources": [
         {
-          "title": "決算短信 - 株式会社ABEJA",
-          "url": "https://www.abejainc.com/ir-result",
+          "title": "株式会社テクノロジーズ 適時開示情報一覧",
+          "url": "https://finance.yahoo.co.jp/quote/5248.T/disclosure",
           "publishedAt": null,
-          "checkedAt": "2026-10-25T08:00:00+09:00"
+          "checkedAt": "2026-10-31T08:54:00+09:00"
         },
         {
-          "title": "ABEJA、ヤマザキマザックと製造現場のフィジカルAI実装に向けた業務連携を開始",
-          "url": "https://www.abejainc.com/news/20261016/2",
-          "publishedAt": "2026-10-16",
-          "checkedAt": "2026-10-25T08:00:00+09:00"
-        },
-        {
-          "title": "ABEJA 株価時系列",
-          "url": "https://finance.yahoo.co.jp/quote/5574.T/history",
-          "publishedAt": null,
-          "checkedAt": "2026-10-25T08:00:00+09:00"
+          "title": "株式会社テクノロジーズ 2027年1月期 第2四半期決算短信",
+          "url": "https://disclosure.catr.jp/companies/e4c28/131518/tdnet/b7464/782629",
+          "publishedAt": "2026-09-14",
+          "checkedAt": "2026-10-31T08:54:00+09:00"
         }
       ]
     },
     {
       "rank": 2,
-      "code": "6597",
-      "name": "HPCシステムズ",
-      "currentPriceJPY": 3070,
-      "priceAsOf": "2026-10-23T15:30:00+09:00",
-      "marketCapJPY": 13433000000,
+      "code": "6562",
+      "name": "ジーニー",
+      "currentPriceJPY": null,
+      "priceAsOf": null,
+      "marketCapJPY": null,
       "volume": {
         "averageDailyShares": null,
-        "periodStart": "2026-09-25",
-        "periodEnd": "2026-10-23",
-        "tradingDays": 20
+        "periodStart": null,
+        "periodEnd": null,
+        "tradingDays": null
       },
-      "per": 19.15,
-      "pbr": 4.92,
-      "valuationBasis": "2026年10月23日終値基準。PER・PBRは株価時系列ページに表示された値。利益・純資産の基準を一次資料で完全照合できていない。",
-      "latestFiscalPeriod": "2026年6月期 通期実績",
-      "revenueJPY": 7906000000,
-      "revenueGrowthPercent": 11.9,
-      "operatingIncomeJPY": 713000000,
-      "operatingIncomeGrowthPercent": 12.1,
-      "companyForecast": {
-        "fiscalPeriod": "2027年6月期 通期会社予想",
-        "revenueJPY": 10400000000,
-        "revenueGrowthPercent": 31.55,
-        "operatingIncomeJPY": 1085000000,
-        "operatingIncomeGrowthPercent": 52.17
-      },
-      "growthThesis": "科学技術計算向け高性能コンピュータと産業用コンピュータを提供。生成AI、GPUサーバー、研究開発向け計算需要の増加が成長機会となる。2027年6月期会社予想として売上高104億円、営業利益10.85億円という数値が参照されているが、今回、一次資料との完全な照合は未完了。5倍上昇には会社予想を大幅に超える利益成長と市場評価の切り上がりが必要となる。",
+      "per": null,
+      "pbr": null,
+      "valuationBasis": null,
+      "latestFiscalPeriod": "2027年3月期",
+      "revenueJPY": null,
+      "revenueGrowthPercent": null,
+      "operatingIncomeJPY": null,
+      "operatingIncomeGrowthPercent": null,
+      "companyForecast": null,
+      "growthThesis": "【取込テスト用】アドテクノロジー・マーケティング支援等の事業を確認対象とする銘柄。投資仮説・成長性・業績見通しは未検証であり、投資候補として評価したものではない。",
       "catalysts": [
-        "GPUサーバーや高性能計算基盤への設備投資拡大",
-        "2027年6月期の会社予想達成と利益成長の加速",
-        "産業用コンピュータ事業の拡大"
+        "【テスト用】2026年10月30日公表の通期業績予想修正に関する開示の確認"
       ],
       "risks": [
-        "会社予想と財務情報について一次資料との完全照合が未完了",
-        "在庫、借入金、調達コスト、GPU供給状況の変化",
-        "設備投資需要の変動や特定顧客への依存",
-        "平均出来高を確認できておらず、流動性を十分に評価できない",
-        "目標価格14500円は買値上限2900円の5倍という強気シナリオであり、保証ではない"
+        "【テスト用】通期業績予想の下方修正、広告市況、競争環境、投資負担の確認が必要",
+        "本レコードの売買価格・目標価格は実勢価格や合理的評価に基づかない"
       ],
-      "buyPriceMinJPY": 2700,
-      "buyPriceMaxJPY": 2900,
-      "targetPriceJPY": 14500,
-      "stopLossPriceJPY": 2500,
+      "buyPriceMinJPY": 800,
+      "buyPriceMaxJPY": 900,
+      "targetPriceJPY": 4500,
+      "stopLossPriceJPY": 700,
       "upsideMultiple": 5,
-      "priceRationale": "買い候補は2700〜2900円。2026年10月23日終値3070円を下回る指値を想定。目標価格14500円は買い上限2900円の5倍。達成には会社予想を上回る成長と評価倍率上昇が必要であり、業績・財務資料の照合が完了するまでは暫定的な調査候補として扱う。損切り価格2500円は運用管理上の仮定。",
+      "priceRationale": "【取込テスト専用の仮値】買い上限900円に対し目標価格4,500円として計算式の検証用に5.0倍を設定。事業価値・業績・類似企業評価等による価格根拠はなく、目標価格シナリオとして使用してはならない。",
       "plannedShares": 100,
-      "estimatedInvestmentJPY": 290000,
+      "estimatedInvestmentJPY": 90000,
       "sources": [
         {
-          "title": "HPCシステムズ 株価時系列",
-          "url": "https://finance.yahoo.co.jp/quote/6597.T/history",
-          "publishedAt": null,
-          "checkedAt": "2026-10-25T08:00:00+09:00"
+          "title": "ジーニー IRニュース（2026年10月30日 通期業績予想修正関連）",
+          "url": "https://geniee.co.jp/ir/news/",
+          "publishedAt": "2026-10-30",
+          "checkedAt": "2026-10-31T08:54:00+09:00"
         },
         {
-          "title": "HPCシステムズ IRライブラリ",
-          "url": "https://ir.hpc.co.jp/library/",
+          "title": "ジーニー 決算短信一覧",
+          "url": "https://geniee.co.jp/ir/library/result/",
           "publishedAt": null,
-          "checkedAt": "2026-10-25T08:00:00+09:00"
-        },
-        {
-          "title": "HPCシステムズ 決算短信",
-          "url": "https://ir.hpc.co.jp/results/",
-          "publishedAt": null,
-          "checkedAt": "2026-10-25T08:00:00+09:00"
+          "checkedAt": "2026-10-31T08:54:00+09:00"
         }
       ]
     },
     {
       "rank": 3,
-      "code": "4398",
-      "name": "ブロードバンドセキュリティ",
-      "currentPriceJPY": 2683,
-      "priceAsOf": "2026-10-23T15:30:00+09:00",
-      "marketCapJPY": 12400000000,
+      "code": "6629",
+      "name": "テクノホライゾン",
+      "currentPriceJPY": null,
+      "priceAsOf": null,
+      "marketCapJPY": null,
       "volume": {
         "averageDailyShares": null,
-        "periodStart": "2026-09-25",
-        "periodEnd": "2026-10-23",
-        "tradingDays": 20
+        "periodStart": null,
+        "periodEnd": null,
+        "tradingDays": null
       },
-      "per": 25.23,
-      "pbr": 2.26,
-      "valuationBasis": "2026年10月23日終値基準。PERは二次情報の表示値。PBRは株価2683円と実績BPS524.57円から算出した約5.11倍ではなく、情報源間で表示値に不一致があるため、2.26倍は要再確認の参照値として扱う。",
-      "latestFiscalPeriod": "2026年6月期 通期実績",
+      "per": null,
+      "pbr": null,
+      "valuationBasis": null,
+      "latestFiscalPeriod": "2027年3月期 第2四半期（中間期）",
       "revenueJPY": null,
       "revenueGrowthPercent": null,
       "operatingIncomeJPY": null,
       "operatingIncomeGrowthPercent": null,
-      "companyForecast": {
-        "fiscalPeriod": "2027年6月期 通期会社予想",
-        "revenueJPY": null,
-        "revenueGrowthPercent": null,
-        "operatingIncomeJPY": null,
-        "operatingIncomeGrowthPercent": null
-      },
-      "growthThesis": "脆弱性診断、セキュリティ監視、インシデント対応などを提供するサイバーセキュリティ企業。AIを悪用した攻撃や企業システムの脆弱性対応需要の拡大が追い風となり得る。直近の株価は大きく変動しているため、事業成長の可能性と株価変動リスクを分けて評価する必要がある。今回、最新決算の具体的な業績数値を一次資料から十分に照合できていないため、業績成長率を確認済みの事実としては扱わない。",
+      "companyForecast": null,
+      "growthThesis": "【取込テスト用】映像・IT、ロボティクス等の事業を確認対象とする銘柄。直近中間期の業績開示は確認対象だが、投資仮説・成長性・業績見通しの総合評価は未検証であり、投資候補として評価したものではない。",
       "catalysts": [
-        "企業の脆弱性診断やセキュリティ監視需要の拡大",
-        "AIを利用した攻撃への対応サービスの拡充",
-        "セキュリティ対策の継続契約や新規顧客獲得の進展"
+        "【テスト用】2026年10月30日公表の2027年3月期第2四半期決算短信・業績予想修正の確認"
       ],
       "risks": [
-        "最新通期決算と会社予想の具体的数値を今回確認できていない",
-        "2026年10月23日は前日比9.30％下落しており、直近の値動きが大きい",
-        "直近20取引日で株価が急上昇した局面があり、高値掴みや急落に注意が必要",
-        "人材採用・育成コスト、セキュリティ技術の進化、競合との価格競争",
-        "PER・PBRの参照値に情報源間の不一致があるため、評価指標は再確認が必要",
-        "目標価格13000円は買値上限2600円の5倍という強気シナリオであり、根拠が確立した目標価格ではない"
+        "【テスト用】買収後の統合、下期業績の進捗、財務負担、流動性、希薄化の確認が必要",
+        "本レコードの売買価格・目標価格は実勢価格や合理的評価に基づかない"
       ],
-      "buyPriceMinJPY": 2400,
-      "buyPriceMaxJPY": 2600,
-      "targetPriceJPY": 13000,
-      "stopLossPriceJPY": 2200,
+      "buyPriceMinJPY": 800,
+      "buyPriceMaxJPY": 900,
+      "targetPriceJPY": 4500,
+      "stopLossPriceJPY": 700,
       "upsideMultiple": 5,
-      "priceRationale": "買い候補は2400〜2600円。2026年10月23日終値2683円を下回る指値を想定する。直近の大きな株価変動を踏まえ、急騰時の追いかけ買いを避ける。目標価格13000円は買い上限2600円の5倍という強気シナリオであり、業績数値とバリュエーションの確認が不足しているため、投資判断前に一次資料での再検証が必要。損切り価格2200円は運用管理上の仮定。",
+      "priceRationale": "【取込テスト専用の仮値】買い上限900円に対し目標価格4,500円として計算式の検証用に5.0倍を設定。事業価値・業績・類似企業評価等による価格根拠はなく、目標価格シナリオとして使用してはならない。",
       "plannedShares": 100,
-      "estimatedInvestmentJPY": 260000,
+      "estimatedInvestmentJPY": 90000,
       "sources": [
         {
-          "title": "2026年6月期 決算短信・IRライブラリ",
-          "url": "https://www.bbsec.co.jp/ir/library/index.html",
-          "publishedAt": "2026-08-12",
-          "checkedAt": "2026-10-25T08:00:00+09:00"
+          "title": "テクノホライゾン 2027年3月期 第2四半期決算短信",
+          "url": "https://disclosure.catr.jp/companies/ac038/48889/tdnet/497a9/790646",
+          "publishedAt": "2026-10-30",
+          "checkedAt": "2026-10-31T08:54:00+09:00"
         },
         {
-          "title": "IRニュース - 株式会社ブロードバンドセキュリティ",
-          "url": "https://www.bbsec.co.jp/ir/news/index.html",
+          "title": "テクノホライゾン 適時開示情報一覧",
+          "url": "https://finance.yahoo.co.jp/quote/6629.T/disclosure",
           "publishedAt": null,
-          "checkedAt": "2026-10-25T08:00:00+09:00"
-        },
-        {
-          "title": "ブロードバンドセキュリティ 株価時系列",
-          "url": "https://finance.yahoo.co.jp/quote/4398.T/history",
-          "publishedAt": null,
-          "checkedAt": "2026-10-25T08:00:00+09:00"
+          "checkedAt": "2026-10-31T08:54:00+09:00"
         }
       ]
     }
   ],
   "warnings": [
-    "過去候補との重複を検証できる前回JSONがないため、過去候補との重複は確認できていない。",
-    "候補は3銘柄提示したが、全3銘柄について最新の業績・会社予想・財務を一次資料で完全照合できたわけではない。特にブロードバンドセキュリティの業績数値は未確認のためnullとした。",
-    "HPCシステムズの会社予想値は参照情報に基づくが、今回の調査では一次資料との完全照合を終えていない。",
-    "平均出来高は対象期間全体のデータを独立に集計できていないためnullとした。期間欄は確認対象期間であり、平均出来高の計算が完了したことを意味しない。",
-    "株価は2026年10月23日（金）の終値を基準とした。2026年10月25日は日曜日。",
-    "全銘柄の目標価格は買い価格上限の5倍とした強気シナリオであり、達成確率や投資成果を保証しない。投資判断前に会社IR、決算短信、適時開示、流動性、財務、希薄化リスクを再確認する必要がある。",
-    "このJSONは指定された項目構成に沿って作成したが、正式なJSON Schemaを実行環境で検証していないため、完全なスキーマ適合を保証しない。"
+    "これはMy Stock ManagerのJSON取込テスト専用データであり、正式な投資候補レポートではない。買い価格・目標価格・損切り価格・予定株数・投資額はすべてテスト用の仮値で、売買判断に使用しないこと。",
+    "currentPriceJPY、priceAsOf、marketCapJPY、volume、PER、PBR、業績実績、会社予想は未入力（null）。価格倍率はテスト用の仮値から算出している。",
+    "3銘柄すべての目標価格5倍はスキーマ検証用に設定したもので、5倍の上昇可能性を裏付ける評価根拠はない。",
+    "前回JSONとのコード照合は未実施のため、前回候補との全入替を確認済みとは扱わない。"
   ]
 }
